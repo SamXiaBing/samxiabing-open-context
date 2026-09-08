@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI稳定性：黑屏 · STR引发的误杀"
-date: 2026-08-28
+date: 2026-08-31
 series: stability
 no: 
 status: published

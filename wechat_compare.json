@@ -1,0 +1,585 @@
+{
+ "matched": [
+  {
+   "wechat": "用Adobe After Effects思维做Unity相机动画：相机运动模块3D HMI实践",
+   "date": "2026-05-18",
+   "path": "articles/misc/用Adobe After Effects思维做Unity相机动画：相机运动模块3D HMI实践/用Adobe After Effects思维做Unity相机动画：相机运动模块3D HMI实践.md"
+  },
+  {
+   "wechat": "3D HMI还原度：镜头动效曲线从公式到资产的转化",
+   "date": "2026-05-19",
+   "path": "articles/misc/3D HMI还原度：镜头动效曲线从公式到资产的转化/3D HMI还原度：镜头动效曲线从公式到资产的转化.md"
+  },
+  {
+   "wechat": "座舱3D HMI相机环视：搞定滑动手感的三个机制",
+   "date": "2026-05-20",
+   "path": "articles/misc/座舱3D HMI相机环视：搞定滑动手感的三个机制/座舱3D HMI相机环视：搞定滑动手感的三个机制.md"
+  },
+  {
+   "wechat": "重做Unity的Play按钮：为平台化开发提效",
+   "date": "2026-05-25",
+   "path": "articles/misc/重做Unity的Play按钮：为平台化开发提效/重做Unity的Play按钮：为平台化开发提效.md"
+  },
+  {
+   "wechat": "座舱3D HMI场景：墙面的摇曳树影",
+   "date": "2026-05-26",
+   "path": "articles/rendering/座舱3D HMI场景：墙面的摇曳树影/座舱3D HMI场景：墙面的摇曳树影.md"
+  },
+  {
+   "wechat": "智能座舱3D HMI：服务化渲染架构剖析",
+   "date": "2026-06-01",
+   "path": "articles/misc/智能座舱3D HMI：服务化渲染架构剖析/智能座舱3D HMI：服务化渲染架构剖析.md"
+  },
+  {
+   "wechat": "智能座舱3D HMI：URAS的工程实践",
+   "date": "2026-06-02",
+   "path": "local/misc/智能座舱3D HMI：URAS的工程实践/智能座舱3D HMI：URAS的工程实践.md"
+  },
+  {
+   "wechat": "智能座舱3D HMI：设计服务化渲染-安卓端",
+   "date": "2026-06-03",
+   "path": "articles/misc/智能座舱3D HMI：设计服务化渲染-安卓端/智能座舱3D HMI：设计服务化渲染-安卓端.md"
+  },
+  {
+   "wechat": "智能座舱3D HMI：设计服务化渲染-引擎端",
+   "date": "2026-06-04",
+   "path": "articles/misc/智能座舱3D HMI：设计服务化渲染-引擎端/智能座舱3D HMI：设计服务化渲染-引擎端.md"
+  },
+  {
+   "wechat": "座舱3D HMI本地化：从拿到Locale开始",
+   "date": "2026-06-08",
+   "path": "articles/localization/座舱3D HMI本地化：从拿到Locale开始/座舱3D HMI本地化：从拿到Locale开始.md"
+  },
+  {
+   "wechat": "座舱3D HMI本地化：文言翻译表的导入工具",
+   "date": "2026-06-09",
+   "path": "articles/localization/座舱3D HMI本地化：文言翻译表的导入工具/座舱3D HMI本地化：文言翻译表的导入工具.md"
+  },
+  {
+   "wechat": "座舱3D HMI本地化：换语种不只是换文本",
+   "date": "2026-06-10",
+   "path": "articles/localization/座舱3D HMI本地化：换语种不只是换文本/座舱3D HMI本地化：换语种不只是换文本.md"
+  },
+  {
+   "wechat": "座舱3D HMI本地化：RTL字符串里的工序思维",
+   "date": "2026-06-11",
+   "path": "articles/localization/座舱3D HMI本地化：RTL字符串里的工序思维/座舱3D HMI本地化：RTL字符串里的工序思维.md"
+  },
+  {
+   "wechat": "座舱3D HMI本地化：文言变“砖”排查手记",
+   "date": "2026-06-12",
+   "path": "articles/localization/座舱3D HMI本地化：文言变“砖”排查手记/座舱3D HMI本地化：文言变“砖”排查手记.md"
+  },
+  {
+   "wechat": "3D HMI 应用内一镜到底：从设计决策到技术落地",
+   "date": "2026-06-15",
+   "path": "articles/misc/3D HMI 应用内一镜到底：从设计决策到技术落地/3D HMI应用内一镜到底：从设计决策到技术落地.md"
+  },
+  {
+   "wechat": "3D HMI 跨应用一镜到底：帧画面衔接技术",
+   "date": "2026-06-16",
+   "path": "articles/misc/3D HMI 跨应用一镜到底：帧画面衔接技术/3D HMI 跨应用一镜到底：帧画面衔接技术.md"
+  },
+  {
+   "wechat": "3D HMI 一镜到底：典型问题分析与修复",
+   "date": "2026-06-17",
+   "path": "articles/misc/3D HMI 一镜到底：典型问题分析与修复/3D HMI 一镜到底：典型问题分析与修复.md"
+  },
+  {
+   "wechat": "从全屏到三七分屏：车机 3D HMI 分屏的落地路径",
+   "date": "2026-06-18",
+   "path": "articles/misc/从全屏到三七分屏：车机 3D HMI 分屏的落地路径/从全屏到三七分屏：车机 3D HMI 分屏的落地路径.md"
+  },
+  {
+   "wechat": "车机端 3D HMI 日志打印：性能影响与控制策略",
+   "date": "2026-06-19",
+   "path": "articles/misc/车机端 3D HMI 日志打印：性能影响与控制策略/车机端 3D HMI 日志打印：性能影响与控制策略.md"
+  },
+  {
+   "wechat": "座舱3D HMI场景化动态帧率：在算力约束下寻求体验平衡",
+   "date": "2026-06-22",
+   "path": "articles/rendering/座舱3D HMI场景化动态帧率：在算力约束下寻求体验平衡/座舱3D HMI场景化动态帧率：在算力约束下寻求体验平衡.md"
+  },
+  {
+   "wechat": "座舱3D HMI稳定性：ANR 主动检测方案（一）",
+   "date": "2026-07-03",
+   "path": "articles/stability/座舱3D HMI稳定性：ANR 主动检测方案（一）/座舱3D HMI稳定性：ANR 主动检测方案（一）.md"
+  },
+  {
+   "wechat": "座舱3D HMI稳定性：ANR 主动检测方案（二）",
+   "date": "2026-07-06",
+   "path": "articles/stability/座舱3D HMI稳定性：ANR 主动检测方案（二）/座舱3D HMI稳定性：ANR 主动检测方案（二）.md"
+  },
+  {
+   "wechat": "座舱3D HMI工具链：资产导入规则模块",
+   "date": "2026-07-10",
+   "path": "articles/tools/座舱3D HMI工具链：资产导入规则模块/座舱3D HMI工具链：资产导入规则模块.md"
+  },
+  {
+   "wechat": "座舱3D HMI性能：帧率与内存异常自动数据捕获方案",
+   "date": "2026-07-13",
+   "path": "articles/perf/座舱3D HMI性能：帧率与内存异常自动数据捕获方案/座舱3D HMI性能：帧率与内存异常自动数据捕获方案.md"
+  },
+  {
+   "wechat": "座舱3D HMI工具链：依据配置文件生成的调试面板",
+   "date": "2026-07-17",
+   "path": "articles/tools/座舱3D HMI工具链：依据配置文件生成的调试面板/座舱3D HMI工具链：依据配置文件生成的调试面板.md"
+  },
+  {
+   "wechat": "座舱3D HMI性能：LINQ写得爽，GC火葬场",
+   "date": "2026-07-20",
+   "path": "articles/perf/座舱3D HMI性能：LINQ写得爽，GC火葬场/座舱3D HMI性能：LINQ写得爽，GC火葬场.md"
+  },
+  {
+   "wechat": "座舱3D HMI开发框架：引用池",
+   "date": "2026-07-24",
+   "path": "articles/framework/座舱3D HMI开发框架：引用池/座舱3D HMI开发框架：引用池.md"
+  },
+  {
+   "wechat": "座舱3D HMI性能：材质实例化与内存泄漏",
+   "date": "2026-07-27",
+   "path": "articles/perf/座舱3D HMI性能：材质实例化与内存泄漏/座舱3D HMI性能：材质实例化与内存泄漏.md"
+  },
+  {
+   "wechat": "座舱3D HMI开发框架：对象池",
+   "date": "2026-07-31",
+   "path": "articles/framework/座舱3D HMI开发框架：对象池/座舱3D HMI开发框架：对象池.md"
+  },
+  {
+   "wechat": "座舱3D HMI性能：不走冤枉路的网格重建",
+   "date": "2026-08-03",
+   "path": "articles/perf/座舱3D HMI性能：不走冤枉路的网格重建/座舱3D HMI性能：不走冤枉路的网格重建.md"
+  },
+  {
+   "wechat": "座舱 3D HMI 框架：BindableProperty 与数据驱动的起点",
+   "date": "2026-08-07",
+   "path": "articles/framework/座舱3D HMI 框架：BindableProperty 与数据驱动的起点/座舱3D HMI 框架：BindableProperty 与数据驱动的起点.md"
+  },
+  {
+   "wechat": "座舱3D HMI性能：把CPU的工作交给GPU",
+   "date": "2026-08-10",
+   "path": "articles/perf/座舱3D HMI性能：把CPU的工作交给GPU/座舱3D HMI性能：把CPU的工作交给GPU.md"
+  },
+  {
+   "wechat": "座舱3D HMI 框架：EventPool 的事件派发机制",
+   "date": "2026-08-14",
+   "path": "articles/framework/座舱3D HMI 框架：EventPool 的事件派发机制/座舱3D HMI 框架：EventPool 的事件派发机制.md"
+  },
+  {
+   "wechat": "座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载",
+   "date": "2026-08-17",
+   "path": "articles/perf/座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载/座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载.md"
+  },
+  {
+   "wechat": "座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理",
+   "date": "2026-08-21",
+   "path": "articles/framework/座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理/座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理.md"
+  },
+  {
+   "wechat": "座舱3D HMI稳定性：黑屏 · binder清理与锁竞争",
+   "date": "2026-08-24",
+   "path": "articles/stability/座舱3D HMI稳定性：黑屏 · binder清理与锁竞争/座舱3D HMI稳定性：黑屏 · binder清理与锁竞争.md"
+  },
+  {
+   "wechat": "座舱3D HMI 框架：模块的抽象、注册与调度",
+   "date": "2026-08-28",
+   "path": "articles/framework/座舱3D HMI 框架：模块的抽象、注册与调度/座舱3D HMI 框架：模块的抽象、注册与调度.md"
+  },
+  {
+   "wechat": "座舱3D HMI稳定性：黑屏 · STR引发的误杀",
+   "date": "2026-08-31",
+   "path": "articles/stability/座舱3D HMI稳定性：黑屏 · STR引发的误杀/座舱3D HMI稳定性：黑屏 · STR引发的误杀.md"
+  },
+  {
+   "wechat": "座舱3D HMI 框架：应用框架的入口设计与启动流程",
+   "date": "2026-09-04",
+   "path": "articles/framework/座舱3D HMI 框架：应用框架的入口设计与启动流程/座舱3D HMI 框架：应用框架的入口设计与启动流程.md"
+  },
+  {
+   "wechat": "座舱3D HMI性能：内存泄漏？关于“回收”的陷阱",
+   "date": "2026-09-07",
+   "path": "articles/perf/座舱3D HMI性能：内存泄漏？关于“回收”的陷阱/座舱3D HMI性能：内存泄漏？关于“回收”的陷阱.md"
+  },
+  {
+   "wechat": "座舱3D HMI场景：URP倒影效果实现",
+   "date": "2026-05-27",
+   "path": "articles/rendering/座舱3D HMI场景：URP倒影效果实现/座舱3D HMI场景：URP倒影效果实现.md"
+  },
+  {
+   "wechat": "座舱3D HMI场景：充电特效",
+   "date": "2026-05-28",
+   "path": "articles/rendering/座舱3D HMI场景：充电特效/座舱3D HMI场景：充电特效.md"
+  },
+  {
+   "wechat": "座舱3D HMI场景：放电特效",
+   "date": "2026-05-29",
+   "path": "articles/rendering/座舱3D HMI场景：放电特效/座舱3D HMI场景：放电特效.md"
+  },
+  {
+   "wechat": "3D 视图挖个洞，把视频画面填进去",
+   "date": "2026-06-24",
+   "path": "articles/misc/3D 视图挖个洞，把视频画面填进去/3D 视图挖个洞，把视频画面填进去.md"
+  },
+  {
+   "wechat": "座舱3D HMI场景：全局模糊优化的毛玻璃材质方案",
+   "date": "2026-07-01",
+   "path": "articles/rendering/座舱3D HMI场景：全局模糊优化的毛玻璃材质方案/座舱3D HMI场景：全局模糊优化的毛玻璃材质方案.md"
+  },
+  {
+   "wechat": "座舱3D HMI场景：车窗的透明玻璃材质",
+   "date": "2026-07-02",
+   "path": "articles/rendering/座舱3D HMI场景：车窗的透明玻璃材质/座舱3D HMI场景：车窗的透明玻璃材质.md"
+  },
+  {
+   "wechat": "座舱3D HMI场景：探索液态玻璃效果",
+   "date": "2026-07-02",
+   "path": "articles/rendering/座舱3D HMI场景：探索液态玻璃效果/座舱3D HMI场景：探索液态玻璃效果.md"
+  },
+  {
+   "wechat": "座舱3D HMI场景：Dual Kawase 模糊的工程思维",
+   "date": "2026-07-08",
+   "path": "articles/rendering/座舱3D HMI场景：Dual Kawase 模糊的工程思维/座舱3D HMI场景：Dual Kawase 模糊的工程思维.md"
+  },
+  {
+   "wechat": "座舱3D HMI场景：车灯光柱的体积光效果",
+   "date": "2026-07-15",
+   "path": "articles/rendering/座舱3D HMI场景：车灯光柱的体积光效果/座舱3D HMI场景：车灯光柱的体积光效果.md"
+  },
+  {
+   "wechat": "座舱3D HMI材质：车漆（一）分层结构与整体构成",
+   "date": "2026-07-22",
+   "path": "articles/carpaint/座舱3D HMI材质：车漆（一）分层结构与整体构成/座舱3D HMI材质：车漆（一）分层结构与整体构成.md"
+  },
+  {
+   "wechat": "座舱3D HMI材质：车漆（二）Base 层 — 主色、边缘色与过渡",
+   "date": "2026-07-29",
+   "path": "articles/carpaint/座舱3D HMI材质：车漆（二）Base 层：主色、边缘色与过渡/座舱3D HMI材质：车漆（二）Base 层：主色、边缘色与过渡.md"
+  },
+  {
+   "wechat": "座舱3D HMI材质：车漆（三）Flake 层：金属颗粒与珠光",
+   "date": "2026-08-05",
+   "path": "articles/carpaint/座舱3D HMI材质：车漆（三）Flake 层：金属颗粒与珠光/座舱3D HMI材质：车漆（三）Flake 层：金属颗粒与珠光.md"
+  },
+  {
+   "wechat": "座舱3D HMI材质：车漆（四）ClearCoat 层：清漆与镜面反射",
+   "date": "2026-08-12",
+   "path": "articles/carpaint/座舱3D HMI材质：车漆（四）ClearCoat 层：清漆与镜面反射/座舱3D HMI材质：车漆（四）ClearCoat 层：清漆与镜面反射.md"
+  },
+  {
+   "wechat": "座舱3D HMI材质：车漆（五）车衣遮罩层",
+   "date": "2026-08-19",
+   "path": "articles/carpaint/座舱3D HMI材质：车漆（五）车衣遮罩层/座舱3D HMI材质：车漆（五）车衣遮罩层.md"
+  },
+  {
+   "wechat": "座舱3D HMI场景：水面效果",
+   "date": "2026-09-02",
+   "path": "articles/rendering/座舱3D HMI场景：水面效果/座舱3D HMI场景：水面效果.md"
+  },
+  {
+   "wechat": "车机端生成式 UI 实践：A2UI 协议的 Unity UI Toolkit 原生渲染方案",
+   "date": "2026-09-05",
+   "path": "articles/misc/车机端生成式 UI 实践：A2UI 协议的 Unity UI Toolkit 原生渲染方案/车机端生成式 UI 实践：A2UI 协议的 Unity UI Toolkit 原生渲染方案.md"
+  },
+  {
+   "wechat": "智驾SR开发：点与坐标系",
+   "date": "2026-05-07",
+   "path": "articles/sr/智驾SR开发：点与坐标系/环境感知模拟—画点.md"
+  },
+  {
+   "wechat": "智驾SR开发：从输入数据看“线”的五种生成方式",
+   "date": "2026-05-08",
+   "path": "articles/sr/智驾SR开发：从输入数据看“线”的五种生成方式/智驾SR开发：从输入数据看“线”的五种生成方式.md"
+  },
+  {
+   "wechat": "智驾 SR 开发：画线的五个“避坑”指南",
+   "date": "2026-05-09",
+   "path": "articles/sr/智驾 SR 开发：画线的五个“避坑”指南/智驾 SR 开发：画线的五个“避坑”指南.md"
+  },
+  {
+   "wechat": "智驾 SR 开发：可行驶区域三种工程实现指南",
+   "date": "2026-05-11",
+   "path": "articles/sr/智驾 SR 开发：可行驶区域三种工程实现指南/智驾 SR 开发：可行驶区域三种工程实现指南.md"
+  },
+  {
+   "wechat": "智驾 SR 开发：泊车OCC可视化从体素网格到障碍表面的两种工程实现",
+   "date": "2026-05-12",
+   "path": "articles/sr/智驾 SR 开发：泊车OCC可视化从体素网格到障碍表面的两种工程实现/智驾 SR 开发：泊车OCC可视化从体素网格到障碍表面的两种工程实现.md"
+  },
+  {
+   "wechat": "智驾SR开发：感知物全拆解",
+   "date": "2026-05-13",
+   "path": "articles/sr/智驾 SR 开发：感知物全拆解/智驾SR开发：感知物全拆解.md"
+  },
+  {
+   "wechat": "智驾SR开发：“厚重”的泊车位",
+   "date": "2026-05-14",
+   "path": "articles/sr/智驾SR开发：“厚重”的泊车位/智驾SR开发：“厚重”的泊车位.md"
+  },
+  {
+   "wechat": "车载智驾信号怎么到座舱3D渲染？一文拆解两种落地架构",
+   "date": "2026-05-15",
+   "path": "articles/sr/车载智驾信号怎么到座舱3D渲染？一文拆解两种落地架构/车载智驾信号怎么到座舱3D渲染？一文拆解两种落地架构.md"
+  },
+  {
+   "wechat": "智驾SR开发：HMI相机交互分层实现方案",
+   "date": "2026-05-21",
+   "path": "articles/sr/智驾SR开发：HMI相机交互分层实现方案/智驾SR开发：HMI相机交互分层实现方案.md"
+  },
+  {
+   "wechat": "智驾SR开发：记忆泊车建图全览",
+   "date": "2026-05-22",
+   "path": "articles/sr/智驾SR开发：记忆泊车建图全览/智驾SR开发：记忆泊车建图全览.md"
+  },
+  {
+   "wechat": "座舱 SR 数据回放工具：从录制到回放的完整设计",
+   "date": "2026-06-05",
+   "path": "articles/tools/座舱 SR 数据回放工具：从录制到回放的完整设计/座舱 SR 数据回放工具：从录制到回放的完整设计.md"
+  },
+  {
+   "wechat": "智驾 SR 开发：他们说的 SOME/IP 是想指什么？",
+   "date": "2026-06-23",
+   "path": "articles/sr/智驾 SR 开发：他们说的 SOMEIP 是想指什么？/智驾 SR 开发：他们说的 SOMEIP 是想指什么？.md"
+  },
+  {
+   "wechat": "智驾 SR 开发：共享内存是条必经之路",
+   "date": "2026-06-26",
+   "path": "articles/sr/智驾 SR 开发：共享内存是条必经之路/智驾 SR 开发：共享内存是条必经之路.md"
+  },
+  {
+   "wechat": "座舱 SR 数据回放演变：从单通道到多链路",
+   "date": "2026-06-29",
+   "path": "articles/tools/座舱 SR 数据回放演变：从单通道到多链路/座舱 SR 数据回放演变：从单通道到多链路.md"
+  },
+  {
+   "wechat": "智驾 SR 开发：机位状态与场景流转梳理",
+   "date": "2026-07-09",
+   "path": "articles/sr/智驾 SR 开发：机位状态与场景流转梳理/智驾 SR 开发：机位状态与场景流转梳理.md"
+  },
+  {
+   "wechat": "智驾 SR 开发：记忆泊车全览视角的自动构图方法",
+   "date": "2026-07-16",
+   "path": "articles/sr/智驾 SR 开发：记忆泊车全览视角的自动构图方法/智驾 SR 开发：记忆泊车全览视角的自动构图方法.md"
+  },
+  {
+   "wechat": "智驾 SR 开发：SR 场景样式与主题管理",
+   "date": "2026-07-30",
+   "path": "articles/sr/智驾 SR 开发：SR 场景样式与主题管理/智驾 SR 开发：SR 场景样式与主题管理.md"
+  },
+  {
+   "wechat": "智驾 SR 开发：自车视角遮挡检测与半透明化实现",
+   "date": "2026-08-06",
+   "path": "articles/sr/智驾 SR 开发：自车视角遮挡检测与半透明化实现/智驾 SR 开发：自车视角遮挡检测与半透明化实现.md"
+  },
+  {
+   "wechat": "智驾 SR 开发：感知物轨迹平滑的卡尔曼滤波实践",
+   "date": "2026-08-13",
+   "path": "articles/sr/智驾 SR 开发：感知物轨迹平滑的卡尔曼滤波实践/智驾 SR 开发：感知物轨迹平滑的卡尔曼滤波实践.md"
+  },
+  {
+   "wechat": "智驾 SR 开发：感知物的尺寸适配怎么做才对？",
+   "date": "2026-08-20",
+   "path": "articles/sr/智驾 SR 开发：感知物的尺寸适配怎么做才对？/智驾 SR 开发：感知物的尺寸适配怎么做才对？.md"
+  },
+  {
+   "wechat": "智驾 SR 开发：一条灯带的多重身份",
+   "date": "2026-09-03",
+   "path": "articles/sr/智驾 SR 开发：一条灯带的多重身份/智驾 SR 开发：一条灯带的多重身份.md"
+  },
+  {
+   "wechat": "会议“戮”：2D 做还是 3D 做？",
+   "date": "2026-06-25",
+   "path": "local/drama/会议“戮”：2D做还是3D做/会议“戮”：2D 做还是 3D 做？.md"
+  },
+  {
+   "wechat": "会议\"戮\"：这座椅按摩的需求从哪冒出来的？",
+   "date": "2026-06-30",
+   "path": "local/drama/会议戮：这座椅按摩的需求从哪冒出来的？/会议戮：这座椅按摩的需求从哪冒出来的？.md"
+  },
+  {
+   "wechat": "会议“戮”：我只是透传",
+   "date": "2026-07-07",
+   "path": "local/drama/会议“戮”：我只是透传/会议“戮”：我只是透传.md"
+  },
+  {
+   "wechat": "会议\"戮\"：你要的性能，给不了",
+   "date": "2026-07-14",
+   "path": "local/drama/会议戮：你要的性能，给不了/会议戮：你要的性能，给不了.md"
+  },
+  {
+   "wechat": "会议戮：应用内存超标，安卓和3D谁的锅？",
+   "date": "2026-07-21",
+   "path": "local/drama/会议戮：应用内存超标，安卓和3D谁的锅？/会议戮：应用内存超标，安卓和3D谁的锅？.md"
+  },
+  {
+   "wechat": "会议戮：18个月造车，怎么一边SOP一边VP？",
+   "date": "2026-07-28",
+   "path": "local/drama/会议戮：18个月造车，怎么一边SOP一边VP？/会议戮：18个月造车，怎么一边SOP一边VP？.md"
+  },
+  {
+   "wechat": "会议\"戮\"：要人没有，要命一条",
+   "date": "2026-08-04",
+   "path": "local/drama/会议戮：要人没有，要命一条/会议戮：要人没有，要命一条.md"
+  },
+  {
+   "wechat": "会议\"戮\"：拨云见日，得一层层来",
+   "date": "2026-08-11",
+   "path": "local/drama/会议戮：拨云见日，得一层层来/会议戮：拨云见日，得一层层来.md"
+  },
+  {
+   "wechat": "会议“戮”：一个人的中台",
+   "date": "2026-08-18",
+   "path": "local/drama/会议戮：一个人的中台/会议戮：一个人的中台.md"
+  },
+  {
+   "wechat": "会议“戮”：分支越拉越多，平台化白做了？",
+   "date": "2026-08-25",
+   "path": "local/drama/会议戮：分支越拉越多，平台化白做了？/会议“戮”：分支越拉越多，平台化白做了？.md"
+  },
+  {
+   "wechat": "会议\"戮\"：换个车模要两周？一周行不行？",
+   "date": "2026-09-01",
+   "path": "local/drama/会议戮：换个车模要两周？一周行不行？/会议戮：换个车模要两周？一周行不行？.md"
+  }
+ ],
+ "missing": [
+  {
+   "title": "座舱3D HMI材质：车漆（六）天气特效层",
+   "date": "2026-08-26"
+  },
+  {
+   "title": "智驾 SR 开发：场景元素的 Layer 化分层管理",
+   "date": "2026-07-23"
+  },
+  {
+   "title": "智驾 SR 开发：PDC 环绕波纹的单材质工程实践",
+   "date": "2026-08-27"
+  }
+ ],
+ "extras": [
+  {
+   "title": "座舱3D HMI场景：高性能模糊算法DualKawaseBlur",
+   "path": "articles/rendering/座舱3D HMI场景：高性能模糊算法DualKawaseBlur/座舱3D HMI场景：高性能模糊算法DualKawaseBlur.md",
+   "visibility": "public"
+  },
+  {
+   "title": "智驾 SR 开发：基于 Layer 的场景分层管理",
+   "path": "articles/sr/智驾 SR 开发：基于 Layer 的场景分层管理/智驾 SR 开发：场景元素的 Layer 化分层管理.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI开发框架：FrameworkLinkedList，节点池化的链表",
+   "path": "articles/framework/座舱3D HMI开发框架：FrameworkLinkedList，节点池化的链表/座舱3D HMI开发框架：FrameworkLinkedList，节点池化的链表.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI性能：Mesh每帧全量重建",
+   "path": "articles/perf/座舱3D HMI性能：Mesh每帧全量重建/座舱3D HMI性能：Mesh每帧全量重建.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI材质：车漆（六）车衣遮罩与样式复用",
+   "path": "articles/carpaint/座舱3D HMI材质：车漆（六）车衣遮罩与样式复用/座舱3D HMI材质：车漆（六）车衣遮罩与样式复用.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI材质：车漆（七）充放电溶解",
+   "path": "articles/carpaint/座舱3D HMI材质：车漆（七）充放电溶解/座舱3D HMI材质：车漆（七）充放电溶解.md",
+   "visibility": "public"
+  },
+  {
+   "title": "智驾 SR 开发：减速带的模块化拼装 三维物体不自拉伸而自动延长",
+   "path": "articles/sr/智驾 SR 开发：减速带的模块化拼装 三维物体不自拉伸而自动延长/智驾 SR 开发：减速带的模块化拼装 三维物体不自拉伸而自动延长.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI性能：AVP车位框DrawCall合批优化（case-06）",
+   "path": "articles/perf/座舱3D HMI性能：AVP车位框DrawCall合批优化（case-06）/座舱3D HMI性能：AVP车位框DrawCall合批优化（case-06）.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI性能：MapRender网格构建内存优化（case-15）",
+   "path": "articles/perf/座舱3D HMI性能：MapRender网格构建内存优化（case-15）/座舱3D HMI性能：MapRender网格构建内存优化（case-15）.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI性能：后台渲染控制与CPU优化（case-12）",
+   "path": "articles/perf/座舱3D HMI性能：后台渲染控制与CPU优化（case-12）/座舱3D HMI性能：后台渲染控制与CPU优化（case-12）.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI性能：对象池设计陷阱——回收也要讲度（case-02）",
+   "path": "articles/perf/座舱3D HMI性能：对象池设计陷阱——回收也要讲度（case-02）/座舱3D HMI性能：对象池设计陷阱——回收也要讲度（case-02）.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI性能：感知数据插帧与防抖优化（case-13）",
+   "path": "articles/perf/座舱3D HMI性能：感知数据插帧与防抖优化（case-13）/座舱3D HMI性能：感知数据插帧与防抖优化（case-13）.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI性能：数字车衣Addressable动态加载（case-07）",
+   "path": "articles/perf/座舱3D HMI性能：数字车衣Addressable动态加载（case-07）/座舱3D HMI性能：数字车衣Addressable动态加载（case-07）.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI性能：高频消息GC优化——零分配热路径（case-08）",
+   "path": "articles/perf/座舱3D HMI性能：高频消息GC优化——零分配热路径（case-08）/座舱3D HMI性能：高频消息GC优化——零分配热路径（case-08）.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI稳定性：JNI跨线程通信的稳定性演化（case-05）",
+   "path": "articles/perf/座舱3D HMI稳定性：JNI跨线程通信的稳定性演化（case-05）/座舱3D HMI稳定性：JNI跨线程通信的稳定性演化（case-05）.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI稳定性：离屏渲染黑屏诊断与启动时序（case-03）",
+   "path": "articles/perf/座舱3D HMI稳定性：离屏渲染黑屏诊断与启动时序（case-03）/座舱3D HMI稳定性：离屏渲染黑屏诊断与启动时序（case-03）.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI稳定性：语音形象稳定性保障——从ANR到自愈（case-10）",
+   "path": "articles/perf/座舱3D HMI稳定性：语音形象稳定性保障——从ANR到自愈（case-10）/座舱3D HMI稳定性：语音形象稳定性保障——从ANR到自愈（case-10）.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI稳定性：长时间Monkey测试ANR防护（case-11）",
+   "path": "articles/perf/座舱3D HMI稳定性：长时间Monkey测试ANR防护（case-11）/座舱3D HMI稳定性：长时间Monkey测试ANR防护（case-11）.md",
+   "visibility": "public"
+  },
+  {
+   "title": "车机端 3D HMI 冷启动性能优化：从1427ms到达标（case-09）",
+   "path": "articles/perf/车机端 3D HMI 冷启动性能优化：从1427ms到达标（case-09）/车机端 3D HMI 冷启动性能优化：从1427ms到达标（case-09）.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI材质：车漆（九）天气特效层",
+   "path": "articles/carpaint/座舱3D HMI材质：车漆（九）天气特效层/座舱3D HMI材质：车漆（六）天气特效层.md",
+   "visibility": "public"
+  },
+  {
+   "title": "智驾 SR 开发：PDC 环绕波纹的单材质实现",
+   "path": "articles/sr/智驾 SR 开发：PDC 环绕波纹的单材质实现/智驾 SR 开发：PDC 环绕波纹的单材质工程实践.md",
+   "visibility": "public"
+  },
+  {
+   "title": "三个月，三款AI编程工具，我把车机生成式UI渲染器开源了",
+   "path": "articles/misc/三个月，三款AI编程工具，我把车机生成式UI渲染器开源了/公众号文章.md",
+   "visibility": "public"
+  },
+  {
+   "title": "座舱3D HMI开发框架",
+   "path": "local/framework/座舱3D HMI开发框架/题材拆分与工程信息.md",
+   "visibility": "local"
+  },
+  {
+   "title": "会议戮：3D组内VP节点攻坚计划 (活人感版)",
+   "path": "local/drama/会议戮：3D组内VP节点攻坚计划 (活人感版)/会议戮：3D组内VP节点攻坚计划 (活人感版).md",
+   "visibility": "local"
+  },
+  {
+   "title": "会议“戮”：按键音，谁来播？",
+   "path": "local/drama/会议“戮”：按键音，谁来播？/会议“戮”：按键音，谁来播？.md",
+   "visibility": "local"
+  }
+ ]
+}

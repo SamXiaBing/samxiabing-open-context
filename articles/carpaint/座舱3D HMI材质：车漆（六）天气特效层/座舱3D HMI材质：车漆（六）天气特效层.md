@@ -1,8 +1,8 @@
 ---
-title: "座舱3D HMI材质：车漆（九）天气特效层"
-date: 2026-08-25
+title: 座舱3D HMI材质：车漆（六）天气特效层
+date: 2026-08-26
 series: carpaint
-no: 9
+no: 6
 status: published
 visibility: public
 wechat_url: ""

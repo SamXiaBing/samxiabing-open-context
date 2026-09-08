@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI性能：内存泄漏？关于“回收”的陷阱"
-date: 2026-09-06
+date: 2026-09-07
 series: perf
 no: 
 status: published

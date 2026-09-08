@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI材质：车漆（四）ClearCoat 层：清漆与镜面反射"
-date: 2026-08-25
+date: 2026-08-12
 series: carpaint
 no: 4
 status: published

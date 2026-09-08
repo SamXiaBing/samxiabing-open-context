@@ -1,5 +1,5 @@
 ---
-title: "智驾 SR 开发：基于 Layer 的场景分层管理"
+title: "智驾 SR 开发：场景元素的 Layer 化分层管理"
 date: 2026-07-23
 series: sr
 no: 

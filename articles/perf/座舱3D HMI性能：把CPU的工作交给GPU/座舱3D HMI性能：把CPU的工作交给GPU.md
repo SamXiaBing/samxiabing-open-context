@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI性能：把CPU的工作交给GPU"
-date: 2026-08-03
+date: 2026-08-10
 series: perf
 no: 
 status: published

@@ -1,6 +1,6 @@
 ---
 title: "智驾 SR 开发：感知物的尺寸适配怎么做才对？"
-date: 2026-08-19
+date: 2026-08-20
 series: sr
 no: 
 status: published

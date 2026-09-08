@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI工具链：依据配置文件生成的调试面板"
-date: 2026-07-29
+date: 2026-07-17
 series: tools
 no: 
 status: published

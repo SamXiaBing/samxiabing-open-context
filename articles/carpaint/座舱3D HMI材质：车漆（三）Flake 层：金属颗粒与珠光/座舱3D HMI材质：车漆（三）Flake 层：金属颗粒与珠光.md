@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI材质：车漆（三）Flake 层：金属颗粒与珠光"
-date: 2026-08-04
+date: 2026-08-05
 series: carpaint
 no: 3
 status: published

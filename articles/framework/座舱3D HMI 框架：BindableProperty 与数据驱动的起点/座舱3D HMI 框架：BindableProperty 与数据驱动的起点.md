@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI 框架：BindableProperty 与数据驱动的起点"
-date: 2026-08-04
+date: 2026-08-07
 series: framework
 no: 
 status: published

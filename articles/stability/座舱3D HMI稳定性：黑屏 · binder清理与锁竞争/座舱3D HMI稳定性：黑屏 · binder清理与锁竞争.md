@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI稳定性：黑屏 · binder清理与锁竞争"
-date: 2026-08-21
+date: 2026-08-24
 series: stability
 no: 
 status: published

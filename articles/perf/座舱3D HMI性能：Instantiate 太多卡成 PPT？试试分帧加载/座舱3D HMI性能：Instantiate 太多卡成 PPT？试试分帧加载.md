@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载"
-date: 2026-08-13
+date: 2026-08-17
 series: perf
 no: 
 status: published

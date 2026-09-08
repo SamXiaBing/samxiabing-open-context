@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI 框架：模块的抽象、注册与调度"
-date: 2026-08-27
+date: 2026-08-28
 series: framework
 no: 
 status: published

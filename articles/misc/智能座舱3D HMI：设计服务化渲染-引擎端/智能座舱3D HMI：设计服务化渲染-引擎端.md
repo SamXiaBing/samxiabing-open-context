@@ -1,6 +1,6 @@
 ---
 title: "智能座舱3D HMI：设计服务化渲染-引擎端"
-date: 2026-07-01
+date: 2026-06-04
 series: misc
 no: 
 status: published

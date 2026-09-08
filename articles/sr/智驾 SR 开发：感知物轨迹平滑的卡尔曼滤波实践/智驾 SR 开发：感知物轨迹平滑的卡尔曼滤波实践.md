@@ -1,6 +1,6 @@
 ---
 title: "智驾 SR 开发：感知物轨迹平滑的卡尔曼滤波实践"
-date: 2026-08-10
+date: 2026-08-13
 series: sr
 no: 
 status: published

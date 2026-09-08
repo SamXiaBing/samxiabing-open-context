@@ -1,3 +1,20 @@
+# License for Content
+
+All article content in this repository (text, figures, diagrams, mermaid charts, and
+inline code snippets) is licensed under:
+
+**CC BY-NC-ND 4.0** (Attribution–NonCommercial–NoDerivatives)
+
+Full legal text: <https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode>
+
+You may share the material in any medium with **attribution and a link to the source**,
+for personal learning and research. You may **not** use it commercially, distribute
+modified versions, or remove attribution. All code snippets are provided as
+desensitized samples and follow the same terms. Opinions expressed are the author's
+own and are unrelated to the employer.
+
+---
+
 # 内容许可（License for Content）
 
 本仓库中的全部文章内容（含文字、插图、示意图、mermaid 图表与文中代码片段）采用：

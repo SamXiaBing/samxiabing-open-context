@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI场景：墙面的摇曳树影"
-date: 2026-05-27
+date: 2026-05-26
 series: rendering
 no: 
 status: published

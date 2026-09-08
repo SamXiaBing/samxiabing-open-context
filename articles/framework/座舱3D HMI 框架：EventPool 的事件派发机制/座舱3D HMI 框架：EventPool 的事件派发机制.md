@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI 框架：EventPool 的事件派发机制"
-date: 2026-08-11
+date: 2026-08-14
 series: framework
 no: 
 status: published

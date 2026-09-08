@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理"
-date: 2026-08-20
+date: 2026-08-21
 series: framework
 no: 
 status: published

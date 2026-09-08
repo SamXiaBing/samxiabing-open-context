@@ -1,6 +1,6 @@
 ---
-title: "智驾 SR 开发：PDC 环绕波纹的单材质实现"
-date: 2026-08-26
+title: "智驾 SR 开发：PDC 环绕波纹的单材质工程实践"
+date: 2026-08-27
 series: sr
 no: 
 status: published

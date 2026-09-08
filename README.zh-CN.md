@@ -1,31 +1,24 @@
-# SamXiaBing · Open Context
+# 座舱 3D HMI 写作语料库（SamXiaBing · Open Context）
 
-Public writing corpus of a **cockpit 3D HMI engineer** working on mass-production
-vehicle infotainment: car paint rendering, scene materials, performance, stability,
-runtime framework, localization, toolchain, and Surround Rendering (SR) business logic.
+车机 3D HMI 一线工程的公开写作语料：车漆渲染、场景材质、性能优化、稳定性保障、
+开发框架、本地化、工具链与智驾 SR 业务实现。公众号为首发平台，本仓库是
+**带日期、带目录、可机器检索**的开放快照——对标 [lizheng-open-context](https://github.com/sunyuzheng/lizheng-open-context)，
+不是人格提示词，而是有出处、有时间、可引用、可继续开发的公共材料。
 
-Articles are written in **Chinese** (deep technical dives, published weekly on WeChat);
-this repository is the **dated, structured, machine-readable snapshot** of that work —
-my open context, in the sense of [lizheng-open-context](https://github.com/sunyuzheng/lizheng-open-context):
-not a persona prompt, but a source-grounded corpus you can search, cite, and build on.
+## 三类访客怎么用
 
-## How to use this repo
+- **同行工程师**：下面的系列索引即学习路径；方案含踩坑与 trade-off，可直接对照实践。
+- **AI / 检索**：`catalog.jsonl` 为机器可读目录（一行一篇），配合全文检索回答领域问题；
+  引用请注明文章路径。
+- **写作者**：脱敏规范（讲工艺不讲业务）与逐系列编号实践可参考。
 
-- **Engineers (Unity / automotive HMI)**: the series index below is a learning path;
-  solutions include pitfalls and trade-offs from production code (desensitized).
-- **AI agents / retrieval**: `catalog.jsonl` is a machine-readable index, one JSON object
-  per article (`title / date / series / no / status / wechat_url / path`). Pair it with
-  full-text search; cite the article path when answering.
-- **Writers**: the desensitization discipline (technique over business detail) and
-  per-series numbering are reusable practices.
+## 系列索引
 
-## Series index
+共 79 篇已发表文章（英文主版索引见 [README.md](README.md)）。
 
-79 published articles. Titles are in Chinese as originally published.
+### 车漆材质系列（Car Paint Materials）（6 篇）
 
-### Car Paint Materials (6)
-
-| Date | Title |
+| 日期 | 标题 |
 |---|---|
 | 2026-07-22 | 座舱3D HMI材质：车漆（一）分层结构与整体构成 |
 | 2026-07-29 | 座舱3D HMI材质：车漆（二）Base 层：主色、边缘色与过渡 |
@@ -34,9 +27,9 @@ not a persona prompt, but a source-grounded corpus you can search, cite, and bui
 | 2026-08-19 | 座舱3D HMI材质：车漆（五）车衣遮罩层 |
 | 2026-08-26 | 座舱3D HMI材质：车漆（六）天气特效层 |
 
-### Scene Materials & Effects (11)
+### 场景材质系列（Scene Materials & Effects）（11 篇）
 
-| Date | Title |
+| 日期 | 标题 |
 |---|---|
 | 2026-05-26 | 座舱3D HMI场景：墙面的摇曳树影 |
 | 2026-05-27 | 座舱3D HMI场景：URP倒影效果实现 |
@@ -50,9 +43,9 @@ not a persona prompt, but a source-grounded corpus you can search, cite, and bui
 | 2026-07-15 | 座舱3D HMI场景：车灯光柱的体积光效果 |
 | 2026-09-02 | 座舱3D HMI场景：水面效果 |
 
-### Performance (7)
+### 性能优化系列（Performance）（7 篇）
 
-| Date | Title |
+| 日期 | 标题 |
 |---|---|
 | 2026-07-13 | 座舱3D HMI性能：帧率与内存异常自动数据捕获方案 |
 | 2026-07-20 | 座舱3D HMI性能：LINQ写得爽，GC火葬场 |
@@ -62,18 +55,18 @@ not a persona prompt, but a source-grounded corpus you can search, cite, and bui
 | 2026-08-17 | 座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载 |
 | 2026-09-07 | 座舱3D HMI性能：内存泄漏？关于“回收”的陷阱 |
 
-### Stability (4)
+### 稳定性系列（Stability）（4 篇）
 
-| Date | Title |
+| 日期 | 标题 |
 |---|---|
 | 2026-07-03 | 座舱3D HMI稳定性：ANR 主动检测方案（一） |
 | 2026-07-06 | 座舱3D HMI稳定性：ANR 主动检测方案（二） |
 | 2026-08-24 | 座舱3D HMI稳定性：黑屏 · binder清理与锁竞争 |
 | 2026-08-31 | 座舱3D HMI稳定性：黑屏 · STR引发的误杀 |
 
-### Dev Framework (7)
+### 开发框架系列（Dev Framework）（7 篇）
 
-| Date | Title |
+| 日期 | 标题 |
 |---|---|
 | 2026-07-24 | 座舱3D HMI开发框架：引用池 |
 | 2026-07-31 | 座舱3D HMI开发框架：对象池 |
@@ -83,9 +76,9 @@ not a persona prompt, but a source-grounded corpus you can search, cite, and bui
 | 2026-08-28 | 座舱3D HMI 框架：模块的抽象、注册与调度 |
 | 2026-09-04 | 座舱3D HMI 框架：应用框架的入口设计与启动流程 |
 
-### Localization (5)
+### 本地化系列（Localization）（5 篇）
 
-| Date | Title |
+| 日期 | 标题 |
 |---|---|
 | 2026-06-08 | 座舱3D HMI本地化：从拿到Locale开始 |
 | 2026-06-09 | 座舱3D HMI本地化：文言翻译表的导入工具 |
@@ -93,18 +86,18 @@ not a persona prompt, but a source-grounded corpus you can search, cite, and bui
 | 2026-06-11 | 座舱3D HMI本地化：RTL字符串里的工序思维 |
 | 2026-06-12 | 座舱3D HMI本地化：文言变“砖”排查手记 |
 
-### Toolchain (4)
+### 工具链系列（Toolchain）（4 篇）
 
-| Date | Title |
+| 日期 | 标题 |
 |---|---|
 | 2026-06-05 | 座舱 SR 数据回放工具：从录制到回放的完整设计 |
 | 2026-06-29 | 座舱 SR 数据回放演变：从单通道到多链路 |
 | 2026-07-10 | 座舱3D HMI工具链：资产导入规则模块 |
 | 2026-07-17 | 座舱3D HMI工具链：依据配置文件生成的调试面板 |
 
-### SR · Surround Rendering (21)
+### 智驾 SR 系列（SR · Surround Rendering）（21 篇）
 
-| Date | Title |
+| 日期 | 标题 |
 |---|---|
 | 2026-05-07 | 智驾SR开发：点与坐标系 |
 | 2026-05-08 | 智驾SR开发：从输入数据看“线”的五种生成方式 |
@@ -128,9 +121,9 @@ not a persona prompt, but a source-grounded corpus you can search, cite, and bui
 | 2026-08-27 | 智驾 SR 开发：PDC 环绕波纹的单材质工程实践 |
 | 2026-09-03 | 智驾 SR 开发：一条灯带的多重身份 |
 
-### Engineering Notes (14)
+### 工程实践拾遗（Engineering Notes）（14 篇）
 
-| Date | Title |
+| 日期 | 标题 |
 |---|---|
 | 2026-05-18 | 用Adobe After Effects思维做Unity相机动画：相机运动模块3D HMI实践 |
 | 2026-05-19 | 3D HMI还原度：镜头动效曲线从公式到资产的转化 |
@@ -147,29 +140,22 @@ not a persona prompt, but a source-grounded corpus you can search, cite, and bui
 | 2026-06-24 | 3D 视图挖个洞，把视频画面填进去 |
 | 2026-09-05 | 车机端生成式 UI 实践：A2UI 协议的 Unity UI Toolkit 原生渲染方案 |
 
-## Data layer
+## 数据层
 
-- Each article lives at `articles/<series>/<title>/` with a frontmatter header
-  (`title / date / series / no / status / visibility / wechat_url`) and local images.
-- `scripts/build_catalog.py` regenerates the catalogs and this README;
-  `scripts/validate_corpus.py` checks integrity.
+- 每篇文章位于 `articles/<系列>/<标题>/`，md 文首带 frontmatter 元数据，图片为本地相对路径
+- `scripts/build_catalog.py` 重新生成目录与本 README；`scripts/validate_corpus.py` 校验完整性
 
-## Boundary & license
+## 边界与声明
 
-- All code snippets are **desensitized samples**: technique over business detail,
-  no mapping to any real project, client, or employer.
-- Not included: unpublished drafts, workplace fiction, client or project identifiers.
-- Opinions are the author's own, not the employer's.
-- A few early figures are lost to the WeChat image-hosting hotlink policy and are
-  marked *[see original article for figures]*.
+- 全部代码片段均为**脱敏示意代码**：讲工艺不讲业务，与真实工程无对应关系
+- 本仓库不包含：未发表草稿、职场系列、任何客户与项目标识信息
+- 文中观点为作者个人观点，与雇主无关
+- 部分早期文章配图因公众号图床防盗链遗失，已标注 *[配图见公众号原文]*
 
 ## License
 
-Content: [CC BY-NC-ND 4.0](LICENSE-CONTENT.md) — attribution required, non-commercial,
-no derivatives. Code snippets follow the same terms.
+内容：[CC BY-NC-ND 4.0](LICENSE-CONTENT.md)（署名—非商业—禁止演绎）。转载请署名并附链接。
 
 ---
 
-WeChat official account: first-publication venue · GitHub: [SamXiaBing](https://github.com/SamXiaBing)
-
-> 中文版说明见 [README.zh-CN.md](README.zh-CN.md)
+公众号：首发平台（名称待补） · GitHub：[SamXiaBing](https://github.com/SamXiaBing)

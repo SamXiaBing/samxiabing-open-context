@@ -1,6 +1,6 @@
 ---
 title: "座舱3D HMI材质：车漆（五）车衣遮罩层"
-date: 2026-08-24
+date: 2026-08-19
 series: carpaint
 no: 5
 status: published
