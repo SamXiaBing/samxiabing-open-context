@@ -15,10 +15,12 @@ IMG_EXT = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}
 TOKENS = {
     "faw": re.compile(r"faw", re.I),
     "metis": re.compile(r"metis", re.I),
+    "zeekr/极氪": re.compile(r"zeekr|极氪", re.I),
     "一汽/解放/红旗": re.compile(r"一汽|解放|红旗|hongqi", re.I),
     "车型代号J6/J7": re.compile(r"\bJ6\b|\bJ7\b"),
     "内部IP": re.compile(r"\b10\.\d+\.\d+\.\d+\b"),
     "内部域名": re.compile(r"[a-z0-9.-]+\.(corp|intra|local)\b", re.I),
+    "本机路径": re.compile(r"D:\\|C:\\Users"),
     "Tuanjie/团结引擎版本": re.compile(r"[Tt]uanjie"),
 }
 

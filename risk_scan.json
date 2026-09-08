@@ -15,17 +15,17 @@
   "imgs": 3
  },
  {
+  "path": "articles/carpaint/座舱3D HMI材质：车漆（九）天气特效层/座舱3D HMI材质：车漆（六）天气特效层.md",
+  "hits": {},
+  "imgs": 2
+ },
+ {
   "path": "articles/carpaint/座舱3D HMI材质：车漆（二）Base 层：主色、边缘色与过渡/座舱3D HMI材质：车漆（二）Base 层：主色、边缘色与过渡.md",
   "hits": {},
   "imgs": 2
  },
  {
   "path": "articles/carpaint/座舱3D HMI材质：车漆（五）车衣遮罩层/座舱3D HMI材质：车漆（五）车衣遮罩层.md",
-  "hits": {},
-  "imgs": 2
- },
- {
-  "path": "articles/carpaint/座舱3D HMI材质：车漆（六）天气特效层/座舱3D HMI材质：车漆（六）天气特效层.md",
   "hits": {},
   "imgs": 2
  },
@@ -38,6 +38,254 @@
   "path": "articles/carpaint/座舱3D HMI材质：车漆（四）ClearCoat 层：清漆与镜面反射/座舱3D HMI材质：车漆（四）ClearCoat 层：清漆与镜面反射.md",
   "hits": {},
   "imgs": 1
+ },
+ {
+  "path": "articles/framework/座舱3D HMI 框架：BindableProperty 与数据驱动的起点/座舱3D HMI 框架：BindableProperty 与数据驱动的起点.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/framework/座舱3D HMI 框架：EventPool 的事件派发机制/座舱3D HMI 框架：EventPool 的事件派发机制.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/framework/座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理/座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理.md",
+  "hits": {},
+  "imgs": 3
+ },
+ {
+  "path": "articles/framework/座舱3D HMI 框架：应用框架的入口设计与启动流程/座舱3D HMI 框架：应用框架的入口设计与启动流程.md",
+  "hits": {},
+  "imgs": 2
+ },
+ {
+  "path": "articles/framework/座舱3D HMI 框架：模块的抽象、注册与调度/座舱3D HMI 框架：模块的抽象、注册与调度.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/framework/座舱3D HMI开发框架：FrameworkLinkedList，节点池化的链表/座舱3D HMI开发框架：FrameworkLinkedList，节点池化的链表.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/framework/座舱3D HMI开发框架：对象池/座舱3D HMI开发框架：对象池.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/framework/座舱3D HMI开发框架：引用池/座舱3D HMI开发框架：引用池.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/localization/座舱3D HMI本地化：RTL字符串里的工序思维/座舱3D HMI本地化：RTL字符串里的工序思维.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/localization/座舱3D HMI本地化：从拿到Locale开始/座舱3D HMI本地化：从拿到Locale开始.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/localization/座舱3D HMI本地化：换语种不只是换文本/座舱3D HMI本地化：换语种不只是换文本.md",
+  "hits": {},
+  "imgs": 4
+ },
+ {
+  "path": "articles/localization/座舱3D HMI本地化：文言变“砖”排查手记/座舱3D HMI本地化：文言变“砖”排查手记.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/localization/座舱3D HMI本地化：文言翻译表的导入工具/座舱3D HMI本地化：文言翻译表的导入工具.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/misc/3D HMI 一镜到底：典型问题分析与修复/3D HMI 一镜到底：典型问题分析与修复.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/misc/3D HMI 应用内一镜到底：从设计决策到技术落地/3D HMI应用内一镜到底：从设计决策到技术落地.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/misc/3D HMI 跨应用一镜到底：帧画面衔接技术/3D HMI 跨应用一镜到底：帧画面衔接技术.md",
+  "hits": {},
+  "imgs": 2
+ },
+ {
+  "path": "articles/misc/3D HMI还原度：镜头动效曲线从公式到资产的转化/3D HMI还原度：镜头动效曲线从公式到资产的转化.md",
+  "hits": {},
+  "imgs": 4
+ },
+ {
+  "path": "articles/misc/3D 视图挖个洞，把视频画面填进去/3D 视图挖个洞，把视频画面填进去.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/misc/三个月，三款AI编程工具，我把车机生成式UI渲染器开源了/公众号文章.md",
+  "hits": {
+   "Tuanjie/团结引擎版本": 3
+  },
+  "imgs": 0
+ },
+ {
+  "path": "articles/misc/从全屏到三七分屏：车机 3D HMI 分屏的落地路径/从全屏到三七分屏：车机 3D HMI 分屏的落地路径.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/misc/座舱3D HMI相机环视：搞定滑动手感的三个机制/座舱3D HMI相机环视：搞定滑动手感的三个机制.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/misc/智能座舱3D HMI：服务化渲染架构剖析/智能座舱3D HMI：服务化渲染架构剖析.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/misc/智能座舱3D HMI：设计服务化渲染-安卓端/智能座舱3D HMI：设计服务化渲染-安卓端.md",
+  "hits": {
+   "Tuanjie/团结引擎版本": 1
+  },
+  "imgs": 0
+ },
+ {
+  "path": "articles/misc/智能座舱3D HMI：设计服务化渲染-引擎端/智能座舱3D HMI：设计服务化渲染-引擎端.md",
+  "hits": {
+   "Tuanjie/团结引擎版本": 3
+  },
+  "imgs": 0
+ },
+ {
+  "path": "articles/misc/用Adobe After Effects思维做Unity相机动画：相机运动模块3D HMI实践/用Adobe After Effects思维做Unity相机动画：相机运动模块3D HMI实践.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/misc/车机端 3D HMI 日志打印：性能影响与控制策略/车机端 3D HMI 日志打印：性能影响与控制策略.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/misc/车机端生成式 UI 实践：A2UI 协议的 Unity UI Toolkit 原生渲染方案/车机端生成式 UI 实践：A2UI 协议的 Unity UI Toolkit 原生渲染方案.md",
+  "hits": {
+   "Tuanjie/团结引擎版本": 7
+  },
+  "imgs": 4
+ },
+ {
+  "path": "articles/misc/重做Unity的Play按钮：为平台化开发提效/重做Unity的Play按钮：为平台化开发提效.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：AVP车位框DrawCall合批优化（case-06）/座舱3D HMI性能：AVP车位框DrawCall合批优化（case-06）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载/座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：LINQ写得爽，GC火葬场/座舱3D HMI性能：LINQ写得爽，GC火葬场.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：MapRender网格构建内存优化（case-15）/座舱3D HMI性能：MapRender网格构建内存优化（case-15）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：Mesh每帧全量重建/座舱3D HMI性能：Mesh每帧全量重建.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：不走冤枉路的网格重建/座舱3D HMI性能：不走冤枉路的网格重建.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：内存泄漏？关于“回收”的陷阱/座舱3D HMI性能：内存泄漏？关于“回收”的陷阱.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：后台渲染控制与CPU优化（case-12）/座舱3D HMI性能：后台渲染控制与CPU优化（case-12）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：对象池设计陷阱——回收也要讲度（case-02）/座舱3D HMI性能：对象池设计陷阱——回收也要讲度（case-02）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：帧率与内存异常自动数据捕获方案/座舱3D HMI性能：帧率与内存异常自动数据捕获方案.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：感知数据插帧与防抖优化（case-13）/座舱3D HMI性能：感知数据插帧与防抖优化（case-13）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：把CPU的工作交给GPU/座舱3D HMI性能：把CPU的工作交给GPU.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：数字车衣Addressable动态加载（case-07）/座舱3D HMI性能：数字车衣Addressable动态加载（case-07）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：材质实例化与内存泄漏/座舱3D HMI性能：材质实例化与内存泄漏.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI性能：高频消息GC优化——零分配热路径（case-08）/座舱3D HMI性能：高频消息GC优化——零分配热路径（case-08）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI稳定性：JNI跨线程通信的稳定性演化（case-05）/座舱3D HMI稳定性：JNI跨线程通信的稳定性演化（case-05）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI稳定性：离屏渲染黑屏诊断与启动时序（case-03）/座舱3D HMI稳定性：离屏渲染黑屏诊断与启动时序（case-03）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI稳定性：语音形象稳定性保障——从ANR到自愈（case-10）/座舱3D HMI稳定性：语音形象稳定性保障——从ANR到自愈（case-10）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/座舱3D HMI稳定性：长时间Monkey测试ANR防护（case-11）/座舱3D HMI稳定性：长时间Monkey测试ANR防护（case-11）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/perf/车机端 3D HMI 冷启动性能优化：从1427ms到达标（case-09）/车机端 3D HMI 冷启动性能优化：从1427ms到达标（case-09）.md",
+  "hits": {},
+  "imgs": 0
  },
  {
   "path": "articles/rendering/座舱3D HMI场景化动态帧率：在算力约束下寻求体验平衡/座舱3D HMI场景化动态帧率：在算力约束下寻求体验平衡.md",
@@ -101,6 +349,162 @@
   "hits": {
    "Tuanjie/团结引擎版本": 1
   },
+  "imgs": 0
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：PDC 环绕波纹的单材质实现/智驾 SR 开发：PDC 环绕波纹的单材质工程实践.md",
+  "hits": {},
+  "imgs": 2
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：SR 场景样式与主题管理/智驾 SR 开发：SR 场景样式与主题管理.md",
+  "hits": {},
+  "imgs": 2
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：一条灯带的多重身份/智驾 SR 开发：一条灯带的多重身份.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：他们说的 SOMEIP 是想指什么？/智驾 SR 开发：他们说的 SOMEIP 是想指什么？.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：共享内存是条必经之路/智驾 SR 开发：共享内存是条必经之路.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：减速带的模块化拼装 三维物体不自拉伸而自动延长/智驾 SR 开发：减速带的模块化拼装 三维物体不自拉伸而自动延长.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：可行驶区域三种工程实现指南/智驾 SR 开发：可行驶区域三种工程实现指南.md",
+  "hits": {},
+  "imgs": 2
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：基于 Layer 的场景分层管理/智驾 SR 开发：场景元素的 Layer 化分层管理.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：感知物全拆解/智驾SR开发：感知物全拆解.md",
+  "hits": {},
+  "imgs": 5
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：感知物的尺寸适配怎么做才对？/智驾 SR 开发：感知物的尺寸适配怎么做才对？.md",
+  "hits": {},
+  "imgs": 4
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：感知物轨迹平滑的卡尔曼滤波实践/智驾 SR 开发：感知物轨迹平滑的卡尔曼滤波实践.md",
+  "hits": {},
+  "imgs": 2
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：机位状态与场景流转梳理/智驾 SR 开发：机位状态与场景流转梳理.md",
+  "hits": {},
+  "imgs": 7
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：泊车OCC可视化从体素网格到障碍表面的两种工程实现/智驾 SR 开发：泊车OCC可视化从体素网格到障碍表面的两种工程实现.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：画线的五个“避坑”指南/智驾 SR 开发：画线的五个“避坑”指南.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：自车视角遮挡检测与半透明化实现/智驾 SR 开发：自车视角遮挡检测与半透明化实现.md",
+  "hits": {},
+  "imgs": 2
+ },
+ {
+  "path": "articles/sr/智驾 SR 开发：记忆泊车全览视角的自动构图方法/智驾 SR 开发：记忆泊车全览视角的自动构图方法.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/sr/智驾SR开发：HMI相机交互分层实现方案/智驾SR开发：HMI相机交互分层实现方案.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/sr/智驾SR开发：“厚重”的泊车位/智驾SR开发：“厚重”的泊车位.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/sr/智驾SR开发：从输入数据看“线”的五种生成方式/智驾SR开发：从输入数据看“线”的五种生成方式.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/sr/智驾SR开发：点与坐标系/环境感知模拟—画点.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/sr/智驾SR开发：记忆泊车建图全览/智驾SR开发：记忆泊车建图全览.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/sr/车载智驾信号怎么到座舱3D渲染？一文拆解两种落地架构/车载智驾信号怎么到座舱3D渲染？一文拆解两种落地架构.md",
+  "hits": {
+   "Tuanjie/团结引擎版本": 8
+  },
+  "imgs": 0
+ },
+ {
+  "path": "articles/stability/座舱3D HMI稳定性：ANR 主动检测方案（一）/座舱3D HMI稳定性：ANR 主动检测方案（一）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/stability/座舱3D HMI稳定性：ANR 主动检测方案（二）/座舱3D HMI稳定性：ANR 主动检测方案（二）.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/stability/座舱3D HMI稳定性：黑屏 · binder清理与锁竞争/座舱3D HMI稳定性：黑屏 · binder清理与锁竞争.md",
+  "hits": {
+   "Tuanjie/团结引擎版本": 15
+  },
+  "imgs": 1
+ },
+ {
+  "path": "articles/stability/座舱3D HMI稳定性：黑屏 · STR引发的误杀/座舱3D HMI稳定性：黑屏 · STR引发的误杀.md",
+  "hits": {
+   "Tuanjie/团结引擎版本": 2
+  },
+  "imgs": 0
+ },
+ {
+  "path": "articles/tools/座舱 SR 数据回放工具：从录制到回放的完整设计/座舱 SR 数据回放工具：从录制到回放的完整设计.md",
+  "hits": {},
+  "imgs": 3
+ },
+ {
+  "path": "articles/tools/座舱 SR 数据回放演变：从单通道到多链路/座舱 SR 数据回放演变：从单通道到多链路.md",
+  "hits": {},
+  "imgs": 1
+ },
+ {
+  "path": "articles/tools/座舱3D HMI工具链：依据配置文件生成的调试面板/座舱3D HMI工具链：依据配置文件生成的调试面板.md",
+  "hits": {},
+  "imgs": 0
+ },
+ {
+  "path": "articles/tools/座舱3D HMI工具链：资产导入规则模块/座舱3D HMI工具链：资产导入规则模块.md",
+  "hits": {},
   "imgs": 0
  },
  {
@@ -169,115 +573,11 @@
   "imgs": 0
  },
  {
-  "path": "local/framework/座舱3D HMI 框架：BindableProperty 与数据驱动的起点/座舱3D HMI 框架：BindableProperty 与数据驱动的起点.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/framework/座舱3D HMI 框架：EventPool 的事件派发机制/座舱3D HMI 框架：EventPool 的事件派发机制.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/framework/座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理/座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理.md",
-  "hits": {},
-  "imgs": 3
- },
- {
-  "path": "local/framework/座舱3D HMI 框架：应用框架的入口设计与启动流程/座舱3D HMI 框架：应用框架的入口设计与启动流程.md",
-  "hits": {},
-  "imgs": 2
- },
- {
-  "path": "local/framework/座舱3D HMI 框架：模块的抽象、注册与调度/座舱3D HMI 框架：模块的抽象、注册与调度.md",
-  "hits": {},
-  "imgs": 1
- },
- {
   "path": "local/framework/座舱3D HMI开发框架/题材拆分与工程信息.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/framework/座舱3D HMI开发框架：FrameworkLinkedList，节点池化的链表/座舱3D HMI开发框架：FrameworkLinkedList，节点池化的链表.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/framework/座舱3D HMI开发框架：对象池/座舱3D HMI开发框架：对象池.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/framework/座舱3D HMI开发框架：引用池/座舱3D HMI开发框架：引用池.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/localization/座舱3D HMI本地化：RTL字符串里的工序思维/座舱3D HMI本地化：RTL字符串里的工序思维.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/localization/座舱3D HMI本地化：从拿到Locale开始/座舱3D HMI本地化：从拿到Locale开始.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/localization/座舱3D HMI本地化：换语种不只是换文本/座舱3D HMI本地化：换语种不只是换文本.md",
-  "hits": {},
-  "imgs": 4
- },
- {
-  "path": "local/localization/座舱3D HMI本地化：文言变“砖”排查手记/座舱3D HMI本地化：文言变“砖”排查手记.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/localization/座舱3D HMI本地化：文言翻译表的导入工具/座舱3D HMI本地化：文言翻译表的导入工具.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/misc/3D HMI 一镜到底：典型问题分析与修复/3D HMI 一镜到底：典型问题分析与修复.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/misc/3D HMI 应用内一镜到底：从设计决策到技术落地/3D HMI应用内一镜到底：从设计决策到技术落地.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/misc/3D HMI 跨应用一镜到底：帧画面衔接技术/3D HMI 跨应用一镜到底：帧画面衔接技术.md",
-  "hits": {},
-  "imgs": 2
- },
- {
-  "path": "local/misc/3D HMI还原度：镜头动效曲线从公式到资产的转化/3D HMI还原度：镜头动效曲线从公式到资产的转化.md",
-  "hits": {},
-  "imgs": 4
- },
- {
-  "path": "local/misc/3D 视图挖个洞，把视频画面填进去/3D 视图挖个洞，把视频画面填进去.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/misc/三个月，三款AI编程工具，我把车机生成式UI渲染器开源了/公众号文章.md",
   "hits": {
-   "Tuanjie/团结引擎版本": 3
+   "zeekr/极氪": 87,
+   "本机路径": 99
   },
-  "imgs": 0
- },
- {
-  "path": "local/misc/从全屏到三七分屏：车机 3D HMI 分屏的落地路径/从全屏到三七分屏：车机 3D HMI 分屏的落地路径.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/misc/座舱3D HMI相机环视：搞定滑动手感的三个机制/座舱3D HMI相机环视：搞定滑动手感的三个机制.md",
-  "hits": {},
   "imgs": 0
  },
  {
@@ -285,303 +585,6 @@
   "hits": {
    "Tuanjie/团结引擎版本": 39
   },
-  "imgs": 0
- },
- {
-  "path": "local/misc/智能座舱3D HMI：服务化渲染架构剖析/智能座舱3D HMI：服务化渲染架构剖析.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/misc/智能座舱3D HMI：设计服务化渲染-安卓端/智能座舱3D HMI：设计服务化渲染-安卓端.md",
-  "hits": {
-   "Tuanjie/团结引擎版本": 1
-  },
-  "imgs": 0
- },
- {
-  "path": "local/misc/智能座舱3D HMI：设计服务化渲染-引擎端/智能座舱3D HMI：设计服务化渲染-引擎端.md",
-  "hits": {
-   "Tuanjie/团结引擎版本": 3
-  },
-  "imgs": 0
- },
- {
-  "path": "local/misc/用Adobe After Effects思维做Unity相机动画：相机运动模块3D HMI实践/用Adobe After Effects思维做Unity相机动画：相机运动模块3D HMI实践.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/misc/车机端 3D HMI 日志打印：性能影响与控制策略/车机端 3D HMI 日志打印：性能影响与控制策略.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/misc/车机端生成式 UI 实践：A2UI 协议的 Unity UI Toolkit 原生渲染方案/车机端生成式 UI 实践：A2UI 协议的 Unity UI Toolkit 原生渲染方案.md",
-  "hits": {
-   "Tuanjie/团结引擎版本": 7
-  },
-  "imgs": 4
- },
- {
-  "path": "local/misc/重做Unity的Play按钮：为平台化开发提效/重做Unity的Play按钮：为平台化开发提效.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI性能：AVP车位框DrawCall合批优化（case-06）/座舱3D HMI性能：AVP车位框DrawCall合批优化（case-06）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载/座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI性能：LINQ写得爽，GC火葬场/座舱3D HMI性能：LINQ写得爽，GC火葬场.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/perf/座舱3D HMI性能：MapRender网格构建内存优化（case-15）/座舱3D HMI性能：MapRender网格构建内存优化（case-15）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI性能：Mesh每帧全量重建/座舱3D HMI性能：Mesh每帧全量重建.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI性能：不走冤枉路的网格重建/座舱3D HMI性能：不走冤枉路的网格重建.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/perf/座舱3D HMI性能：内存泄漏？关于“回收”的陷阱/座舱3D HMI性能：内存泄漏？关于“回收”的陷阱.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI性能：后台渲染控制与CPU优化（case-12）/座舱3D HMI性能：后台渲染控制与CPU优化（case-12）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI性能：对象池设计陷阱——回收也要讲度（case-02）/座舱3D HMI性能：对象池设计陷阱——回收也要讲度（case-02）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI性能：帧率与内存异常自动数据捕获方案/座舱3D HMI性能：帧率与内存异常自动数据捕获方案.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/perf/座舱3D HMI性能：感知数据插帧与防抖优化（case-13）/座舱3D HMI性能：感知数据插帧与防抖优化（case-13）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI性能：把CPU的工作交给GPU/座舱3D HMI性能：把CPU的工作交给GPU.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/perf/座舱3D HMI性能：数字车衣Addressable动态加载（case-07）/座舱3D HMI性能：数字车衣Addressable动态加载（case-07）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI性能：材质实例化与内存泄漏/座舱3D HMI性能：材质实例化与内存泄漏.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI性能：高频消息GC优化——零分配热路径（case-08）/座舱3D HMI性能：高频消息GC优化——零分配热路径（case-08）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI稳定性：JNI跨线程通信的稳定性演化（case-05）/座舱3D HMI稳定性：JNI跨线程通信的稳定性演化（case-05）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI稳定性：离屏渲染黑屏诊断与启动时序（case-03）/座舱3D HMI稳定性：离屏渲染黑屏诊断与启动时序（case-03）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI稳定性：语音形象稳定性保障——从ANR到自愈（case-10）/座舱3D HMI稳定性：语音形象稳定性保障——从ANR到自愈（case-10）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/座舱3D HMI稳定性：长时间Monkey测试ANR防护（case-11）/座舱3D HMI稳定性：长时间Monkey测试ANR防护（case-11）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/perf/车机端 3D HMI 冷启动性能优化：从1427ms到达标（case-09）/车机端 3D HMI 冷启动性能优化：从1427ms到达标（case-09）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/sr/智驾 SR 开发：PDC 环绕波纹的单材质实现/智驾 SR 开发：PDC 环绕波纹的单材质工程实践.md",
-  "hits": {},
-  "imgs": 2
- },
- {
-  "path": "local/sr/智驾 SR 开发：SR 场景样式与主题管理/智驾 SR 开发：SR 场景样式与主题管理.md",
-  "hits": {},
-  "imgs": 2
- },
- {
-  "path": "local/sr/智驾 SR 开发：一条灯带的多重身份/智驾 SR 开发：一条灯带的多重身份.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/sr/智驾 SR 开发：他们说的 SOMEIP 是想指什么？/智驾 SR 开发：他们说的 SOMEIP 是想指什么？.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/sr/智驾 SR 开发：共享内存是条必经之路/智驾 SR 开发：共享内存是条必经之路.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/sr/智驾 SR 开发：减速带的模块化拼装 三维物体不自拉伸而自动延长/智驾 SR 开发：减速带的模块化拼装 三维物体不自拉伸而自动延长.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/sr/智驾 SR 开发：可行驶区域三种工程实现指南/智驾 SR 开发：可行驶区域三种工程实现指南.md",
-  "hits": {},
-  "imgs": 2
- },
- {
-  "path": "local/sr/智驾 SR 开发：基于 Layer 的场景分层管理/智驾 SR 开发：场景元素的 Layer 化分层管理.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/sr/智驾 SR 开发：感知物全拆解/智驾SR开发：感知物全拆解.md",
-  "hits": {},
-  "imgs": 5
- },
- {
-  "path": "local/sr/智驾 SR 开发：感知物的尺寸适配怎么做才对？/智驾 SR 开发：感知物的尺寸适配怎么做才对？.md",
-  "hits": {},
-  "imgs": 4
- },
- {
-  "path": "local/sr/智驾 SR 开发：感知物轨迹平滑的卡尔曼滤波实践/智驾 SR 开发：感知物轨迹平滑的卡尔曼滤波实践.md",
-  "hits": {},
-  "imgs": 2
- },
- {
-  "path": "local/sr/智驾 SR 开发：机位状态与场景流转梳理/智驾 SR 开发：机位状态与场景流转梳理.md",
-  "hits": {},
-  "imgs": 7
- },
- {
-  "path": "local/sr/智驾 SR 开发：泊车OCC可视化从体素网格到障碍表面的两种工程实现/智驾 SR 开发：泊车OCC可视化从体素网格到障碍表面的两种工程实现.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/sr/智驾 SR 开发：画线的五个“避坑”指南/智驾 SR 开发：画线的五个“避坑”指南.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/sr/智驾 SR 开发：自车视角遮挡检测与半透明化实现/智驾 SR 开发：自车视角遮挡检测与半透明化实现.md",
-  "hits": {},
-  "imgs": 2
- },
- {
-  "path": "local/sr/智驾 SR 开发：记忆泊车全览视角的自动构图方法/智驾 SR 开发：记忆泊车全览视角的自动构图方法.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/sr/智驾SR开发：HMI相机交互分层实现方案/智驾SR开发：HMI相机交互分层实现方案.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/sr/智驾SR开发：“厚重”的泊车位/智驾SR开发：“厚重”的泊车位.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/sr/智驾SR开发：从输入数据看“线”的五种生成方式/智驾SR开发：从输入数据看“线”的五种生成方式.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/sr/智驾SR开发：点与坐标系/环境感知模拟—画点.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/sr/智驾SR开发：记忆泊车建图全览/智驾SR开发：记忆泊车建图全览.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/sr/车载智驾信号怎么到座舱3D渲染？一文拆解两种落地架构/车载智驾信号怎么到座舱3D渲染？一文拆解两种落地架构.md",
-  "hits": {
-   "Tuanjie/团结引擎版本": 8
-  },
-  "imgs": 0
- },
- {
-  "path": "local/stability/座舱3D HMI稳定性：ANR 主动检测方案（一）/座舱3D HMI稳定性：ANR 主动检测方案（一）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/stability/座舱3D HMI稳定性：ANR 主动检测方案（二）/座舱3D HMI稳定性：ANR 主动检测方案（二）.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/stability/座舱3D HMI稳定性：黑屏 · binder清理与锁竞争/座舱3D HMI稳定性：黑屏 · binder清理与锁竞争.md",
-  "hits": {
-   "Tuanjie/团结引擎版本": 15
-  },
-  "imgs": 1
- },
- {
-  "path": "local/stability/座舱3D HMI稳定性：黑屏 · STR引发的误杀/座舱3D HMI稳定性：黑屏 · STR引发的误杀.md",
-  "hits": {
-   "Tuanjie/团结引擎版本": 2
-  },
-  "imgs": 0
- },
- {
-  "path": "local/tools/座舱 SR 数据回放工具：从录制到回放的完整设计/座舱 SR 数据回放工具：从录制到回放的完整设计.md",
-  "hits": {},
-  "imgs": 3
- },
- {
-  "path": "local/tools/座舱 SR 数据回放演变：从单通道到多链路/座舱 SR 数据回放演变：从单通道到多链路.md",
-  "hits": {},
-  "imgs": 1
- },
- {
-  "path": "local/tools/座舱3D HMI工具链：依据配置文件生成的调试面板/座舱3D HMI工具链：依据配置文件生成的调试面板.md",
-  "hits": {},
-  "imgs": 0
- },
- {
-  "path": "local/tools/座舱3D HMI工具链：资产导入规则模块/座舱3D HMI工具链：资产导入规则模块.md",
-  "hits": {},
   "imgs": 0
  }
 ]
