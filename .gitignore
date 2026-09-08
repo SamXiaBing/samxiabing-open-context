@@ -1,0 +1,7 @@
+local/
+catalog.local.jsonl
+RISK-ASSESSMENT.md
+MIGRATION-REPORT.md
+__pycache__/
+*.pyc
+Thumbs.db
