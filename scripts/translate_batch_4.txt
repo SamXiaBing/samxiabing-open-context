@@ -1,0 +1,10 @@
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：可行驶区域三种工程实现指南\智驾 SR 开发：可行驶区域三种工程实现指南.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾SR开发：HMI相机交互分层实现方案\智驾SR开发：HMI相机交互分层实现方案.md
+D:\AIWorkSpace\articles-corpus\articles\misc\智能座舱3D HMI：设计服务化渲染-安卓端\智能座舱3D HMI：设计服务化渲染-安卓端.md
+D:\AIWorkSpace\articles-corpus\articles\misc\3D HMI 应用内一镜到底：从设计决策到技术落地\3D HMI应用内一镜到底：从设计决策到技术落地.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：共享内存是条必经之路\智驾 SR 开发：共享内存是条必经之路.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：机位状态与场景流转梳理\智驾 SR 开发：机位状态与场景流转梳理.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：场景元素的 Layer 化分层管理\智驾 SR 开发：场景元素的 Layer 化分层管理.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：自车视角遮挡检测与半透明化实现\智驾 SR 开发：自车视角遮挡检测与半透明化实现.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：感知物的尺寸适配怎么做才对？\智驾 SR 开发：感知物的尺寸适配怎么做才对？.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：一条灯带的多重身份\智驾 SR 开发：一条灯带的多重身份.md

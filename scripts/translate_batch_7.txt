@@ -1,0 +1,10 @@
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾SR开发：“厚重”的泊车位\智驾SR开发：“厚重”的泊车位.md
+D:\AIWorkSpace\articles-corpus\articles\rendering\座舱3D HMI场景：墙面的摇曳树影\座舱3D HMI场景：墙面的摇曳树影.md
+D:\AIWorkSpace\articles-corpus\articles\localization\座舱3D HMI本地化：从拿到Locale开始\座舱3D HMI本地化：从拿到Locale开始.md
+D:\AIWorkSpace\articles-corpus\articles\misc\从全屏到三七分屏：车机 3D HMI 分屏的落地路径\从全屏到三七分屏：车机 3D HMI 分屏的落地路径.md
+D:\AIWorkSpace\articles-corpus\articles\rendering\座舱3D HMI场景：探索液态玻璃效果\座舱3D HMI场景：探索液态玻璃效果.md
+D:\AIWorkSpace\articles-corpus\articles\rendering\座舱3D HMI场景：车灯光柱的体积光效果\座舱3D HMI场景：车灯光柱的体积光效果.md
+D:\AIWorkSpace\articles-corpus\articles\carpaint\座舱3D HMI材质：车漆（二）Base 层：主色、边缘色与过渡\座舱3D HMI材质：车漆（二）Base 层：主色、边缘色与过渡.md
+D:\AIWorkSpace\articles-corpus\articles\carpaint\座舱3D HMI材质：车漆（四）ClearCoat 层：清漆与镜面反射\座舱3D HMI材质：车漆（四）ClearCoat 层：清漆与镜面反射.md
+D:\AIWorkSpace\articles-corpus\articles\carpaint\座舱3D HMI材质：车漆（六）天气特效层\座舱3D HMI材质：车漆（六）天气特效层.md
+D:\AIWorkSpace\articles-corpus\articles\perf\座舱3D HMI性能：内存泄漏？关于“回收”的陷阱\座舱3D HMI性能：内存泄漏？关于“回收”的陷阱.md

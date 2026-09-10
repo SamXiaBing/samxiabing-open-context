@@ -1,0 +1,10 @@
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：感知物全拆解\智驾SR开发：感知物全拆解.md
+D:\AIWorkSpace\articles-corpus\articles\misc\重做Unity的Play按钮：为平台化开发提效\重做Unity的Play按钮：为平台化开发提效.md
+D:\AIWorkSpace\articles-corpus\articles\tools\座舱 SR 数据回放工具：从录制到回放的完整设计\座舱 SR 数据回放工具：从录制到回放的完整设计.md
+D:\AIWorkSpace\articles-corpus\articles\misc\3D HMI 一镜到底：典型问题分析与修复\3D HMI 一镜到底：典型问题分析与修复.md
+D:\AIWorkSpace\articles-corpus\articles\rendering\座舱3D HMI场景：全局模糊优化的毛玻璃材质方案\座舱3D HMI场景：全局模糊优化的毛玻璃材质方案.md
+D:\AIWorkSpace\articles-corpus\articles\perf\座舱3D HMI性能：帧率与内存异常自动数据捕获方案\座舱3D HMI性能：帧率与内存异常自动数据捕获方案.md
+D:\AIWorkSpace\articles-corpus\articles\perf\座舱3D HMI性能：材质实例化与内存泄漏\座舱3D HMI性能：材质实例化与内存泄漏.md
+D:\AIWorkSpace\articles-corpus\articles\perf\座舱3D HMI性能：把CPU的工作交给GPU\座舱3D HMI性能：把CPU的工作交给GPU.md
+D:\AIWorkSpace\articles-corpus\articles\stability\座舱3D HMI稳定性：黑屏 · binder清理与锁竞争\座舱3D HMI稳定性：黑屏 · binder清理与锁竞争.md
+D:\AIWorkSpace\articles-corpus\articles\misc\车机端生成式 UI 实践：A2UI 协议的 Unity UI Toolkit 原生渲染方案\车机端生成式 UI 实践：A2UI 协议的 Unity UI Toolkit 原生渲染方案.md

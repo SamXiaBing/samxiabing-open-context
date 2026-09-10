@@ -1,0 +1,10 @@
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾SR开发：从输入数据看“线”的五种生成方式\智驾SR开发：从输入数据看“线”的五种生成方式.md
+D:\AIWorkSpace\articles-corpus\articles\misc\3D HMI还原度：镜头动效曲线从公式到资产的转化\3D HMI还原度：镜头动效曲线从公式到资产的转化.md
+D:\AIWorkSpace\articles-corpus\articles\rendering\座舱3D HMI场景：放电特效\座舱3D HMI场景：放电特效.md
+D:\AIWorkSpace\articles-corpus\articles\localization\座舱3D HMI本地化：RTL字符串里的工序思维\座舱3D HMI本地化：RTL字符串里的工序思维.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：他们说的 SOMEIP 是想指什么？\智驾 SR 开发：他们说的 SOMEIP 是想指什么？.md
+D:\AIWorkSpace\articles-corpus\articles\stability\座舱3D HMI稳定性：ANR 主动检测方案（二）\座舱3D HMI稳定性：ANR 主动检测方案（二）.md
+D:\AIWorkSpace\articles-corpus\articles\perf\座舱3D HMI性能：LINQ写得爽，GC火葬场\座舱3D HMI性能：LINQ写得爽，GC火葬场.md
+D:\AIWorkSpace\articles-corpus\articles\perf\座舱3D HMI性能：不走冤枉路的网格重建\座舱3D HMI性能：不走冤枉路的网格重建.md
+D:\AIWorkSpace\articles-corpus\articles\perf\座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载\座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载.md
+D:\AIWorkSpace\articles-corpus\articles\stability\座舱3D HMI稳定性：黑屏 · STR引发的误杀\座舱3D HMI稳定性：黑屏 · STR引发的误杀.md

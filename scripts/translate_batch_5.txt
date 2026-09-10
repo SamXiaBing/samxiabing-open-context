@@ -1,0 +1,10 @@
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：泊车OCC可视化从体素网格到障碍表面的两种工程实现\智驾 SR 开发：泊车OCC可视化从体素网格到障碍表面的两种工程实现.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾SR开发：记忆泊车建图全览\智驾SR开发：记忆泊车建图全览.md
+D:\AIWorkSpace\articles-corpus\articles\misc\智能座舱3D HMI：设计服务化渲染-引擎端\智能座舱3D HMI：设计服务化渲染-引擎端.md
+D:\AIWorkSpace\articles-corpus\articles\misc\3D HMI 跨应用一镜到底：帧画面衔接技术\3D HMI 跨应用一镜到底：帧画面衔接技术.md
+D:\AIWorkSpace\articles-corpus\articles\tools\座舱 SR 数据回放演变：从单通道到多链路\座舱 SR 数据回放演变：从单通道到多链路.md
+D:\AIWorkSpace\articles-corpus\articles\tools\座舱3D HMI工具链：资产导入规则模块\座舱3D HMI工具链：资产导入规则模块.md
+D:\AIWorkSpace\articles-corpus\articles\framework\座舱3D HMI开发框架：引用池\座舱3D HMI开发框架：引用池.md
+D:\AIWorkSpace\articles-corpus\articles\framework\座舱3D HMI 框架：BindableProperty 与数据驱动的起点\座舱3D HMI 框架：BindableProperty 与数据驱动的起点.md
+D:\AIWorkSpace\articles-corpus\articles\framework\座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理\座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理.md
+D:\AIWorkSpace\articles-corpus\articles\framework\座舱3D HMI 框架：应用框架的入口设计与启动流程\座舱3D HMI 框架：应用框架的入口设计与启动流程.md

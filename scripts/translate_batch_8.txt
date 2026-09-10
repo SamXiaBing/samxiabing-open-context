@@ -1,0 +1,9 @@
+D:\AIWorkSpace\articles-corpus\articles\sr\车载智驾信号怎么到座舱3D渲染？一文拆解两种落地架构\车载智驾信号怎么到座舱3D渲染？一文拆解两种落地架构.md
+D:\AIWorkSpace\articles-corpus\articles\rendering\座舱3D HMI场景：URP倒影效果实现\座舱3D HMI场景：URP倒影效果实现.md
+D:\AIWorkSpace\articles-corpus\articles\localization\座舱3D HMI本地化：文言翻译表的导入工具\座舱3D HMI本地化：文言翻译表的导入工具.md
+D:\AIWorkSpace\articles-corpus\articles\misc\车机端 3D HMI 日志打印：性能影响与控制策略\车机端 3D HMI 日志打印：性能影响与控制策略.md
+D:\AIWorkSpace\articles-corpus\articles\rendering\座舱3D HMI场景：车窗的透明玻璃材质\座舱3D HMI场景：车窗的透明玻璃材质.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：记忆泊车全览视角的自动构图方法\智驾 SR 开发：记忆泊车全览视角的自动构图方法.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：SR 场景样式与主题管理\智驾 SR 开发：SR 场景样式与主题管理.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：感知物轨迹平滑的卡尔曼滤波实践\智驾 SR 开发：感知物轨迹平滑的卡尔曼滤波实践.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：PDC 环绕波纹的单材质工程实践\智驾 SR 开发：PDC 环绕波纹的单材质工程实践.md

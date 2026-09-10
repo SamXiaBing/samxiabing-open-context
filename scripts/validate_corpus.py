@@ -42,7 +42,7 @@ def main():
             continue
         for md in sorted(base.rglob("*.md")):
             rel = str(md.relative_to(ROOT)).replace("\\", "/")
-            if md.parent.name == "scripts":
+            if md.parent.name == "scripts" or md.name.endswith(".en.md"):
                 continue
             meta, err = parse_frontmatter(md)
             if meta is None:

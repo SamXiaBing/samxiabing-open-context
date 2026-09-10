@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """扫描 articles/ 与 local/ 下的文章 frontmatter，生成 catalog.jsonl（公开）、
-catalog.local.jsonl（全量）、README.md（English primary）与 README.zh-CN.md（中文镜像）。"""
+catalog.local.jsonl（全量）、README.md（English primary）与 README.zh-CN.md（中文镜像）。
+
+每篇中文 md 可带同目录同名 .en.md 英文版（frontmatter 含 lang: en 与英文 title），
+catalog 行会附 title_en/path_en，README 双语索引。"""
 import json
 import sys
 from collections import defaultdict
@@ -43,13 +46,19 @@ def collect(base: Path):
     if not base.exists():
         return rows
     for md in sorted(base.rglob("*.md")):
-        if md.parent.name == "scripts":
+        if md.parent.name == "scripts" or md.name.endswith(".en.md"):
             continue
         meta = parse_frontmatter(md)
         if meta is None:
             continue
         row = {k: meta.get(k, "") for k in FIELDS}
         row["path"] = str(md.relative_to(ROOT)).replace("\\", "/")
+        en = md.with_name(md.stem + ".en.md")
+        if en.exists():
+            en_meta = parse_frontmatter(en)
+            if en_meta:
+                row["title_en"] = en_meta.get("title", "")
+                row["path_en"] = str(en.relative_to(ROOT)).replace("\\", "/")
         rows.append(row)
     return rows
 
@@ -72,19 +81,27 @@ def series_tables(public, lang: int) -> list[str]:
         L.append(f"### {name} ({len(rows)})" if lang == 0 else f"### {name}（{len(rows)} 篇）")
         L.append("")
         if lang == 0:
-            L.append("| Date | Title |")
+            L.append("| Date | Title | 中文 |")
+            L.append("|---|---|---|")
         else:
-            L.append("| 日期 | 标题 |")
-        L.append("|---|---|")
+            L.append("| 日期 | 标题 | English |")
+            L.append("|---|---|---|")
         for r in rows:
-            label = f"[{r['title']}]({r['wechat_url']})" if r["wechat_url"] else r["title"]
-            L.append(f"| {r['date']} | {label} |")
+            en_title = r.get("title_en", "")
+            en_link = f"[{en_title}]({r['path_en'].replace(chr(92), '/')})" if en_title else ""
+            if lang == 0:
+                zh_cell = f"[{r['title']}]({r['path']})" if r["wechat_url"] else r["title"]
+                L.append(f"| {r['date']} | {en_link or r['title']} | {zh_cell} |")
+            else:
+                zh_label = f"[{r['title']}]({r['wechat_url']})" if r["wechat_url"] else r["title"]
+                L.append(f"| {r['date']} | {zh_label} | {en_link} |")
         L.append("")
     return L
 
 
 def gen_readme(public):
     n = len(public)
+    n_en = sum(1 for r in public if r.get("title_en"))
     en = [
         "# SamXiaBing · Open Context",
         "",
@@ -96,20 +113,22 @@ def gen_readme(public):
         "this repository is the **dated, structured, machine-readable snapshot** of that work —",
         "my open context, in the sense of [lizheng-open-context](https://github.com/sunyuzheng/lizheng-open-context):",
         "not a persona prompt, but a source-grounded corpus you can search, cite, and build on.",
+        f"English translations are provided alongside each article (`*.en.md`) — {n_en}/{n} available.",
         "",
         "## How to use this repo",
         "",
         "- **Engineers (Unity / automotive HMI)**: the series index below is a learning path;",
         "  solutions include pitfalls and trade-offs from production code (desensitized).",
         "- **AI agents / retrieval**: `catalog.jsonl` is a machine-readable index, one JSON object",
-        "  per article (`title / date / series / no / status / wechat_url / path`). Pair it with",
-        "  full-text search; cite the article path when answering.",
+        "  per article (`title / title_en / date / series / no / status / wechat_url / path`).",
+        "  Pair it with full-text search; cite the article path when answering.",
         "- **Writers**: the desensitization discipline (technique over business detail) and",
         "  per-series numbering are reusable practices.",
         "",
         "## Series index",
         "",
-        f"{n} published articles. Titles are in Chinese as originally published.",
+        f"{n} published articles. **Title** links to the English translation; **中文** links to",
+        "the original Chinese article.",
         "",
     ]
     en += series_tables(public, 0)
@@ -117,8 +136,9 @@ def gen_readme(public):
         "## Data layer",
         "",
         "- Each article lives at `articles/<series>/<title>/` with a frontmatter header",
-        "  (`title / date / series / no / status / visibility / wechat_url`) and local images.",
-        "- `scripts/build_catalog.py` regenerates the catalogs and this README;",
+        "  (`title / date / series / no / status / visibility / wechat_url`) and local images;",
+        "  the English translation sits next to it as `<title>.en.md`.",
+        "- `scripts/build_catalog.py` regenerates the catalogs and both READMEs;",
         "  `scripts/validate_corpus.py` checks integrity.",
         "",
         "## Boundary & license",
@@ -128,7 +148,7 @@ def gen_readme(public):
         "- Not included: unpublished drafts, workplace fiction, client or project identifiers.",
         "- Opinions are the author's own, not the employer's.",
         "- A few early figures are lost to the WeChat image-hosting hotlink policy and are",
-        "  marked *[see original article for figures]*.",
+        "  marked *[see the original WeChat article]*.",
         "",
         "## License",
         "",
@@ -159,15 +179,16 @@ def gen_readme(public):
         "",
         "## 系列索引",
         "",
-        f"共 {n} 篇已发表文章（英文主版索引见 [README.md](README.md)）。",
+        f"共 {n} 篇已发表文章，其中 {n_en} 篇提供英文版（*.en.md，与原文同目录）。英文主版索引见 [README.md](README.md)。",
         "",
     ]
     zh += series_tables(public, 1)
     zh += [
         "## 数据层",
         "",
-        "- 每篇文章位于 `articles/<系列>/<标题>/`，md 文首带 frontmatter 元数据，图片为本地相对路径",
-        "- `scripts/build_catalog.py` 重新生成目录与本 README；`scripts/validate_corpus.py` 校验完整性",
+        "- 每篇文章位于 `articles/<系列>/<标题>/`，md 文首带 frontmatter 元数据，图片为本地相对路径，",
+        "  英文版为同目录 `<标题>.en.md`",
+        "- `scripts/build_catalog.py` 重新生成目录与两个 README；`scripts/validate_corpus.py` 校验完整性",
         "",
         "## 边界与声明",
         "",
@@ -200,7 +221,8 @@ def main():
     write_jsonl(public, ROOT / "catalog.jsonl")
     write_jsonl(public + local, ROOT / "catalog.local.jsonl")
     gen_readme(public)
-    print(f"catalog.jsonl: {len(public)} 篇（公开）; catalog.local.jsonl: {len(public) + len(local)} 篇（全量）; README.md + README.zh-CN.md 已更新")
+    n_en = sum(1 for r in public if r.get("title_en"))
+    print(f"catalog.jsonl: {len(public)} 篇（公开，英文版 {n_en}）; catalog.local.jsonl: {len(public) + len(local)} 篇（全量）; README x2 已更新")
 
 
 if __name__ == "__main__":

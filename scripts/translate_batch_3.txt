@@ -1,0 +1,10 @@
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：画线的五个“避坑”指南\智驾 SR 开发：画线的五个“避坑”指南.md
+D:\AIWorkSpace\articles-corpus\articles\misc\座舱3D HMI相机环视：搞定滑动手感的三个机制\座舱3D HMI相机环视：搞定滑动手感的三个机制.md
+D:\AIWorkSpace\articles-corpus\articles\misc\智能座舱3D HMI：服务化渲染架构剖析\智能座舱3D HMI：服务化渲染架构剖析.md
+D:\AIWorkSpace\articles-corpus\articles\localization\座舱3D HMI本地化：文言变“砖”排查手记\座舱3D HMI本地化：文言变“砖”排查手记.md
+D:\AIWorkSpace\articles-corpus\articles\misc\3D 视图挖个洞，把视频画面填进去\3D 视图挖个洞，把视频画面填进去.md
+D:\AIWorkSpace\articles-corpus\articles\rendering\座舱3D HMI场景：Dual Kawase 模糊的工程思维\座舱3D HMI场景：Dual Kawase 模糊的工程思维.md
+D:\AIWorkSpace\articles-corpus\articles\carpaint\座舱3D HMI材质：车漆（一）分层结构与整体构成\座舱3D HMI材质：车漆（一）分层结构与整体构成.md
+D:\AIWorkSpace\articles-corpus\articles\carpaint\座舱3D HMI材质：车漆（三）Flake 层：金属颗粒与珠光\座舱3D HMI材质：车漆（三）Flake 层：金属颗粒与珠光.md
+D:\AIWorkSpace\articles-corpus\articles\carpaint\座舱3D HMI材质：车漆（五）车衣遮罩层\座舱3D HMI材质：车漆（五）车衣遮罩层.md
+D:\AIWorkSpace\articles-corpus\articles\rendering\座舱3D HMI场景：水面效果\座舱3D HMI场景：水面效果.md
