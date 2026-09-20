@@ -1,0 +1,4 @@
+D:\AIWorkSpace\articles-corpus\articles\framework\座舱3D HMI 开发框架：Command 机制的设计与用途\座舱3D HMI 开发框架：Command 机制的设计与用途.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：行人动画选 Animator 还是 VAT？\智驾 SR 开发：行人动画选 Animator 还是 VAT？.md
+D:\AIWorkSpace\articles-corpus\articles\rendering\座舱3D HMI材质：轮毂——从通用 Lit 到 MatCap\座舱3D HMI材质：轮毂——从通用 Lit 到 MatCap.md
+D:\AIWorkSpace\articles-corpus\articles\perf\座舱3D HMI性能：对象池接入与回收的对称性\座舱3D HMI性能：对象池接入与回收的对称性.md

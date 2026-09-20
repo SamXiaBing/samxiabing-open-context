@@ -1,0 +1,3 @@
+D:\AIWorkSpace\articles-corpus\articles\framework\座舱3D HMI 开发框架：MVC架构的工程化落地\座舱3D HMI 开发框架：MVC架构的工程化落地.md
+D:\AIWorkSpace\articles-corpus\articles\sr\智驾 SR 开发：车位点选的几何检测方案\智驾 SR 开发：车位点选的几何检测方案.md
+D:\AIWorkSpace\articles-corpus\articles\rendering\座舱3D HMI材质：透明车壳材质的光效拆解\座舱3D HMI材质：透明车壳材质的光效拆解.md

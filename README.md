@@ -8,7 +8,7 @@ Articles are written in **Chinese** (deep technical dives, published weekly on W
 this repository is the **dated, structured, machine-readable snapshot** of that work —
 my open context, in the sense of [lizheng-open-context](https://github.com/sunyuzheng/lizheng-open-context):
 not a persona prompt, but a source-grounded corpus you can search, cite, and build on.
-English translations are provided alongside each article (`*.en.md`) — 79/79 available.
+English translations are provided alongside each article (`*.en.md`) — 86/86 available.
 
 ## How to use this repo
 
@@ -22,7 +22,7 @@ English translations are provided alongside each article (`*.en.md`) — 79/79 a
 
 ## Series index
 
-79 published articles. **Title** links to the English translation; **中文** links to
+86 published articles. **Title** links to the English translation; **中文** links to
 the original Chinese article.
 
 ### Car Paint Materials (6)
@@ -36,7 +36,7 @@ the original Chinese article.
 | 2026-08-19 | [Cockpit 3D HMI Materials: Car Paint (Part 5) — The Wrap Mask Layer](articles/carpaint/座舱3D HMI材质：车漆（五）车衣遮罩层/座舱3D HMI材质：车漆（五）车衣遮罩层.en.md) | 座舱3D HMI材质：车漆（五）车衣遮罩层 |
 | 2026-08-26 | [Cockpit 3D HMI Materials: Car Paint (Part 6) — The Weather Effects Layer](articles/carpaint/座舱3D HMI材质：车漆（六）天气特效层/座舱3D HMI材质：车漆（六）天气特效层.en.md) | 座舱3D HMI材质：车漆（六）天气特效层 |
 
-### Scene Materials & Effects (11)
+### Scene Materials & Effects (13)
 
 | Date | Title | 中文 |
 |---|---|---|
@@ -51,8 +51,10 @@ the original Chinese article.
 | 2026-07-08 | [Cockpit 3D HMI Scenes: The Engineering Mindset Behind Dual Kawase Blur](articles/rendering/座舱3D HMI场景：Dual Kawase 模糊的工程思维/座舱3D HMI场景：Dual Kawase 模糊的工程思维.en.md) | 座舱3D HMI场景：Dual Kawase 模糊的工程思维 |
 | 2026-07-15 | [Cockpit 3D HMI Scenes: Volumetric Light Beams for Car Lights](articles/rendering/座舱3D HMI场景：车灯光柱的体积光效果/座舱3D HMI场景：车灯光柱的体积光效果.en.md) | 座舱3D HMI场景：车灯光柱的体积光效果 |
 | 2026-09-02 | [Cockpit 3D HMI Scenes: The Water Surface Effect](articles/rendering/座舱3D HMI场景：水面效果/座舱3D HMI场景：水面效果.en.md) | 座舱3D HMI场景：水面效果 |
+| 2026-09-09 | [Cockpit 3D HMI Materials: Breaking Down the Lighting of the Translucent Car Shell](articles/rendering/座舱3D HMI材质：透明车壳材质的光效拆解/座舱3D HMI材质：透明车壳材质的光效拆解.en.md) | 座舱3D HMI材质：透明车壳材质的光效拆解 |
+| 2026-09-16 | [Cockpit 3D HMI Materials: Wheel Rim — From Generic Lit to MatCap](articles/rendering/座舱3D HMI材质：轮毂——从通用 Lit 到 MatCap/座舱3D HMI材质：轮毂——从通用 Lit 到 MatCap.en.md) | 座舱3D HMI材质：轮毂——从通用 Lit 到 MatCap |
 
-### Performance (7)
+### Performance (8)
 
 | Date | Title | 中文 |
 |---|---|---|
@@ -63,6 +65,7 @@ the original Chinese article.
 | 2026-08-10 | [Cockpit 3D HMI Performance: Offloading CPU Work to the GPU](articles/perf/座舱3D HMI性能：把CPU的工作交给GPU/座舱3D HMI性能：把CPU的工作交给GPU.en.md) | 座舱3D HMI性能：把CPU的工作交给GPU |
 | 2026-08-17 | [Cockpit 3D HMI Performance: Too Many Instantiates Stuttering Like a Slideshow? Try Frame-Spread Loading](articles/perf/座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载/座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载.en.md) | 座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载 |
 | 2026-09-07 | [Cockpit 3D HMI Performance: Memory Leak? The Trap of “Recycling”](articles/perf/座舱3D HMI性能：内存泄漏？关于“回收”的陷阱/座舱3D HMI性能：内存泄漏？关于“回收”的陷阱.en.md) | 座舱3D HMI性能：内存泄漏？关于“回收”的陷阱 |
+| 2026-09-14 | [Cockpit 3D HMI Performance: The Symmetry of Object Pool Acquisition and Reclamation](articles/perf/座舱3D HMI性能：对象池接入与回收的对称性/座舱3D HMI性能：对象池接入与回收的对称性.en.md) | 座舱3D HMI性能：对象池接入与回收的对称性 |
 
 ### Stability (4)
 
@@ -73,7 +76,7 @@ the original Chinese article.
 | 2026-08-24 | [Cockpit 3D HMI Stability: Black Screens · Binder Cleanup and Lock Contention](articles/stability/座舱3D HMI稳定性：黑屏 · binder清理与锁竞争/座舱3D HMI稳定性：黑屏 · binder清理与锁竞争.en.md) | 座舱3D HMI稳定性：黑屏 · binder清理与锁竞争 |
 | 2026-08-31 | [Cockpit 3D HMI Stability: Black Screen · False Kills Triggered by STR](articles/stability/座舱3D HMI稳定性：黑屏 · STR引发的误杀/座舱3D HMI稳定性：黑屏 · STR引发的误杀.en.md) | 座舱3D HMI稳定性：黑屏 · STR引发的误杀 |
 
-### Dev Framework (7)
+### Dev Framework (9)
 
 | Date | Title | 中文 |
 |---|---|---|
@@ -84,6 +87,8 @@ the original Chinese article.
 | 2026-08-21 | [Cockpit 3D HMI Framework: From the Fsm State Machine to Procedure Flow Management](articles/framework/座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理/座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理.en.md) | 座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理 |
 | 2026-08-28 | [Cockpit 3D HMI Framework: Module Abstraction, Registration, and Scheduling](articles/framework/座舱3D HMI 框架：模块的抽象、注册与调度/座舱3D HMI 框架：模块的抽象、注册与调度.en.md) | 座舱3D HMI 框架：模块的抽象、注册与调度 |
 | 2026-09-04 | [Cockpit 3D HMI Framework: Entry Point Design and the Startup Flow](articles/framework/座舱3D HMI 框架：应用框架的入口设计与启动流程/座舱3D HMI 框架：应用框架的入口设计与启动流程.en.md) | 座舱3D HMI 框架：应用框架的入口设计与启动流程 |
+| 2026-09-11 | [Cockpit 3D HMI Development Framework: Putting the MVC Architecture into Practice](articles/framework/座舱3D HMI 开发框架：MVC架构的工程化落地/座舱3D HMI 开发框架：MVC架构的工程化落地.en.md) | 座舱3D HMI 开发框架：MVC架构的工程化落地 |
+| 2026-09-18 | [Cockpit 3D HMI Development Framework: Design and Purpose of the Command Mechanism](articles/framework/座舱3D HMI 开发框架：Command 机制的设计与用途/座舱3D HMI 开发框架：Command 机制的设计与用途.en.md) | 座舱3D HMI 开发框架：Command 机制的设计与用途 |
 
 ### Localization (5)
 
@@ -104,7 +109,7 @@ the original Chinese article.
 | 2026-07-10 | [Cockpit 3D HMI Toolchain: The Asset Import Rules Module](articles/tools/座舱3D HMI工具链：资产导入规则模块/座舱3D HMI工具链：资产导入规则模块.en.md) | 座舱3D HMI工具链：资产导入规则模块 |
 | 2026-07-17 | [Cockpit 3D HMI Toolchain: A Debug Panel Generated from Configuration Files](articles/tools/座舱3D HMI工具链：依据配置文件生成的调试面板/座舱3D HMI工具链：依据配置文件生成的调试面板.en.md) | 座舱3D HMI工具链：依据配置文件生成的调试面板 |
 
-### SR · Surround Rendering (21)
+### SR · Surround Rendering (23)
 
 | Date | Title | 中文 |
 |---|---|---|
@@ -129,6 +134,8 @@ the original Chinese article.
 | 2026-08-20 | [Intelligent Driving SR Development: What's the Right Way to Fit Perceived-Object Sizes?](articles/sr/智驾 SR 开发：感知物的尺寸适配怎么做才对？/智驾 SR 开发：感知物的尺寸适配怎么做才对？.en.md) | 智驾 SR 开发：感知物的尺寸适配怎么做才对？ |
 | 2026-08-27 | [ADAS SR Development: Engineering a Single-Material Approach to the PDC Surrounding Ripple](articles/sr/智驾 SR 开发：PDC 环绕波纹的单材质工程实践/智驾 SR 开发：PDC 环绕波纹的单材质工程实践.en.md) | 智驾 SR 开发：PDC 环绕波纹的单材质工程实践 |
 | 2026-09-03 | [Intelligent Driving SR Development: The Multiple Identities of a Light Strip](articles/sr/智驾 SR 开发：一条灯带的多重身份/智驾 SR 开发：一条灯带的多重身份.en.md) | 智驾 SR 开发：一条灯带的多重身份 |
+| 2026-09-10 | [ADAS SR Development: A Geometric Detection Scheme for Parking Slot Selection](articles/sr/智驾 SR 开发：车位点选的几何检测方案/智驾 SR 开发：车位点选的几何检测方案.en.md) | 智驾 SR 开发：车位点选的几何检测方案 |
+| 2026-09-17 | [ADAS SR Development: Pedestrian Animation — Animator or VAT?](articles/sr/智驾 SR 开发：行人动画选 Animator 还是 VAT？/智驾 SR 开发：行人动画选 Animator 还是 VAT？.en.md) | 智驾 SR 开发：行人动画选 Animator 还是 VAT？ |
 
 ### Engineering Notes (14)
 

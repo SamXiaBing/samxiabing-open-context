@@ -14,7 +14,7 @@
 
 ## 系列索引
 
-共 79 篇已发表文章，其中 79 篇提供英文版（*.en.md，与原文同目录）。英文主版索引见 [README.md](README.md)。
+共 86 篇已发表文章，其中 86 篇提供英文版（*.en.md，与原文同目录）。英文主版索引见 [README.md](README.md)。
 
 ### 车漆材质系列（Car Paint Materials）（6 篇）
 
@@ -27,7 +27,7 @@
 | 2026-08-19 | 座舱3D HMI材质：车漆（五）车衣遮罩层 | [Cockpit 3D HMI Materials: Car Paint (Part 5) — The Wrap Mask Layer](articles/carpaint/座舱3D HMI材质：车漆（五）车衣遮罩层/座舱3D HMI材质：车漆（五）车衣遮罩层.en.md) |
 | 2026-08-26 | 座舱3D HMI材质：车漆（六）天气特效层 | [Cockpit 3D HMI Materials: Car Paint (Part 6) — The Weather Effects Layer](articles/carpaint/座舱3D HMI材质：车漆（六）天气特效层/座舱3D HMI材质：车漆（六）天气特效层.en.md) |
 
-### 场景材质系列（Scene Materials & Effects）（11 篇）
+### 场景材质系列（Scene Materials & Effects）（13 篇）
 
 | 日期 | 标题 | English |
 |---|---|---|
@@ -42,8 +42,10 @@
 | 2026-07-08 | 座舱3D HMI场景：Dual Kawase 模糊的工程思维 | [Cockpit 3D HMI Scenes: The Engineering Mindset Behind Dual Kawase Blur](articles/rendering/座舱3D HMI场景：Dual Kawase 模糊的工程思维/座舱3D HMI场景：Dual Kawase 模糊的工程思维.en.md) |
 | 2026-07-15 | 座舱3D HMI场景：车灯光柱的体积光效果 | [Cockpit 3D HMI Scenes: Volumetric Light Beams for Car Lights](articles/rendering/座舱3D HMI场景：车灯光柱的体积光效果/座舱3D HMI场景：车灯光柱的体积光效果.en.md) |
 | 2026-09-02 | 座舱3D HMI场景：水面效果 | [Cockpit 3D HMI Scenes: The Water Surface Effect](articles/rendering/座舱3D HMI场景：水面效果/座舱3D HMI场景：水面效果.en.md) |
+| 2026-09-09 | 座舱3D HMI材质：透明车壳材质的光效拆解 | [Cockpit 3D HMI Materials: Breaking Down the Lighting of the Translucent Car Shell](articles/rendering/座舱3D HMI材质：透明车壳材质的光效拆解/座舱3D HMI材质：透明车壳材质的光效拆解.en.md) |
+| 2026-09-16 | 座舱3D HMI材质：轮毂——从通用 Lit 到 MatCap | [Cockpit 3D HMI Materials: Wheel Rim — From Generic Lit to MatCap](articles/rendering/座舱3D HMI材质：轮毂——从通用 Lit 到 MatCap/座舱3D HMI材质：轮毂——从通用 Lit 到 MatCap.en.md) |
 
-### 性能优化系列（Performance）（7 篇）
+### 性能优化系列（Performance）（8 篇）
 
 | 日期 | 标题 | English |
 |---|---|---|
@@ -54,6 +56,7 @@
 | 2026-08-10 | 座舱3D HMI性能：把CPU的工作交给GPU | [Cockpit 3D HMI Performance: Offloading CPU Work to the GPU](articles/perf/座舱3D HMI性能：把CPU的工作交给GPU/座舱3D HMI性能：把CPU的工作交给GPU.en.md) |
 | 2026-08-17 | 座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载 | [Cockpit 3D HMI Performance: Too Many Instantiates Stuttering Like a Slideshow? Try Frame-Spread Loading](articles/perf/座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载/座舱3D HMI性能：Instantiate 太多卡成 PPT？试试分帧加载.en.md) |
 | 2026-09-07 | 座舱3D HMI性能：内存泄漏？关于“回收”的陷阱 | [Cockpit 3D HMI Performance: Memory Leak? The Trap of “Recycling”](articles/perf/座舱3D HMI性能：内存泄漏？关于“回收”的陷阱/座舱3D HMI性能：内存泄漏？关于“回收”的陷阱.en.md) |
+| 2026-09-14 | 座舱3D HMI性能：对象池接入与回收的对称性 | [Cockpit 3D HMI Performance: The Symmetry of Object Pool Acquisition and Reclamation](articles/perf/座舱3D HMI性能：对象池接入与回收的对称性/座舱3D HMI性能：对象池接入与回收的对称性.en.md) |
 
 ### 稳定性系列（Stability）（4 篇）
 
@@ -64,7 +67,7 @@
 | 2026-08-24 | 座舱3D HMI稳定性：黑屏 · binder清理与锁竞争 | [Cockpit 3D HMI Stability: Black Screens · Binder Cleanup and Lock Contention](articles/stability/座舱3D HMI稳定性：黑屏 · binder清理与锁竞争/座舱3D HMI稳定性：黑屏 · binder清理与锁竞争.en.md) |
 | 2026-08-31 | 座舱3D HMI稳定性：黑屏 · STR引发的误杀 | [Cockpit 3D HMI Stability: Black Screen · False Kills Triggered by STR](articles/stability/座舱3D HMI稳定性：黑屏 · STR引发的误杀/座舱3D HMI稳定性：黑屏 · STR引发的误杀.en.md) |
 
-### 开发框架系列（Dev Framework）（7 篇）
+### 开发框架系列（Dev Framework）（9 篇）
 
 | 日期 | 标题 | English |
 |---|---|---|
@@ -75,6 +78,8 @@
 | 2026-08-21 | 座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理 | [Cockpit 3D HMI Framework: From the Fsm State Machine to Procedure Flow Management](articles/framework/座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理/座舱3D HMI 框架：从 Fsm 状态机到 Procedure 流程管理.en.md) |
 | 2026-08-28 | 座舱3D HMI 框架：模块的抽象、注册与调度 | [Cockpit 3D HMI Framework: Module Abstraction, Registration, and Scheduling](articles/framework/座舱3D HMI 框架：模块的抽象、注册与调度/座舱3D HMI 框架：模块的抽象、注册与调度.en.md) |
 | 2026-09-04 | 座舱3D HMI 框架：应用框架的入口设计与启动流程 | [Cockpit 3D HMI Framework: Entry Point Design and the Startup Flow](articles/framework/座舱3D HMI 框架：应用框架的入口设计与启动流程/座舱3D HMI 框架：应用框架的入口设计与启动流程.en.md) |
+| 2026-09-11 | 座舱3D HMI 开发框架：MVC架构的工程化落地 | [Cockpit 3D HMI Development Framework: Putting the MVC Architecture into Practice](articles/framework/座舱3D HMI 开发框架：MVC架构的工程化落地/座舱3D HMI 开发框架：MVC架构的工程化落地.en.md) |
+| 2026-09-18 | 座舱3D HMI 开发框架：Command 机制的设计与用途 | [Cockpit 3D HMI Development Framework: Design and Purpose of the Command Mechanism](articles/framework/座舱3D HMI 开发框架：Command 机制的设计与用途/座舱3D HMI 开发框架：Command 机制的设计与用途.en.md) |
 
 ### 本地化系列（Localization）（5 篇）
 
@@ -95,7 +100,7 @@
 | 2026-07-10 | 座舱3D HMI工具链：资产导入规则模块 | [Cockpit 3D HMI Toolchain: The Asset Import Rules Module](articles/tools/座舱3D HMI工具链：资产导入规则模块/座舱3D HMI工具链：资产导入规则模块.en.md) |
 | 2026-07-17 | 座舱3D HMI工具链：依据配置文件生成的调试面板 | [Cockpit 3D HMI Toolchain: A Debug Panel Generated from Configuration Files](articles/tools/座舱3D HMI工具链：依据配置文件生成的调试面板/座舱3D HMI工具链：依据配置文件生成的调试面板.en.md) |
 
-### 智驾 SR 系列（SR · Surround Rendering）（21 篇）
+### 智驾 SR 系列（SR · Surround Rendering）（23 篇）
 
 | 日期 | 标题 | English |
 |---|---|---|
@@ -120,6 +125,8 @@
 | 2026-08-20 | 智驾 SR 开发：感知物的尺寸适配怎么做才对？ | [Intelligent Driving SR Development: What's the Right Way to Fit Perceived-Object Sizes?](articles/sr/智驾 SR 开发：感知物的尺寸适配怎么做才对？/智驾 SR 开发：感知物的尺寸适配怎么做才对？.en.md) |
 | 2026-08-27 | 智驾 SR 开发：PDC 环绕波纹的单材质工程实践 | [ADAS SR Development: Engineering a Single-Material Approach to the PDC Surrounding Ripple](articles/sr/智驾 SR 开发：PDC 环绕波纹的单材质工程实践/智驾 SR 开发：PDC 环绕波纹的单材质工程实践.en.md) |
 | 2026-09-03 | 智驾 SR 开发：一条灯带的多重身份 | [Intelligent Driving SR Development: The Multiple Identities of a Light Strip](articles/sr/智驾 SR 开发：一条灯带的多重身份/智驾 SR 开发：一条灯带的多重身份.en.md) |
+| 2026-09-10 | 智驾 SR 开发：车位点选的几何检测方案 | [ADAS SR Development: A Geometric Detection Scheme for Parking Slot Selection](articles/sr/智驾 SR 开发：车位点选的几何检测方案/智驾 SR 开发：车位点选的几何检测方案.en.md) |
+| 2026-09-17 | 智驾 SR 开发：行人动画选 Animator 还是 VAT？ | [ADAS SR Development: Pedestrian Animation — Animator or VAT?](articles/sr/智驾 SR 开发：行人动画选 Animator 还是 VAT？/智驾 SR 开发：行人动画选 Animator 还是 VAT？.en.md) |
 
 ### 工程实践拾遗（Engineering Notes）（14 篇）
 
